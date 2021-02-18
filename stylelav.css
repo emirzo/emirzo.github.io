@@ -1,0 +1,31 @@
+body{
+    background:url(mainbackground.png) no-repeat top scroll 
+}
+body{
+    font-family:arial;
+    font-size:46px;
+    color:white;
+}
+h1{
+    font-size:40px;
+    text-align:center;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+    color:white;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+    color:white;
+}
+table{
+    font-size:30px;
+    text-align:center;
+}
