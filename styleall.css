@@ -124,7 +124,7 @@ img{
     }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1400px) {
     table{width:90%}
     body{
     background:url(allfon.png);
@@ -142,7 +142,28 @@ h1{
 img{
     border-radius:3px;
     border-color:gray;
-    width:1000px;
+    width:440px;
+    }
+    }
+
+@media screen and (min-device-width:1401px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+    background:url(allfon.png);
+    background-size:100%;
+    font-family:Arial;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+h1{
+    text-align:center;
+    font-size:100px;
+}
+img{
+    border-color:gray;
+    width:700px;
     }
     }
 
