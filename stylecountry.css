@@ -8,21 +8,27 @@
 }
 h1{
     text-align:center;
-    font-family:30px;
+    font-family:55px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:400px;
+    width:700px;
+    font-size:30px;
 }
-    a:link{
-        text-decoration:underline;
-        color:white;
+img{
+    width:70px;
     }
-    a:active{
-        text-decoration:none;
+a:link{
+    text-decoration:underline;
+    color:white;
     }
-    a:visited{
-        text-decoration:underline;
+a:active{
+    text-decoration:none;
+    }
+a:visited{
+    text-decoration:underline;
     }
 }
 
@@ -36,21 +42,27 @@ table{
 }
 h1{
     text-align:center;
-    font-family:35px;
+    font-family:50px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:400px;
+    width:600px;
+    font-size:25px;
 }
-    a:link{
-        text-decoration:underline;
-        color:white;
+img{
+    width:50px;
     }
-    a:active{
-        text-decoration:none;
+a:link{
+    text-decoration:underline;
+    color:white;
     }
-    a:visited{
-        text-decoration:underline;
+a:active{
+    text-decoration:none;
+    }
+a:visited{
+    text-decoration:underline;
     }
 }
 
@@ -64,11 +76,18 @@ table{
 }
 h1{
     text-align:center;
+    font-size:40px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:400px;
+    width:600px;
+    font-size:20px;
 }
+img{
+    width:50px;
+    }
     a:link{
         text-decoration:underline;
         color:white;
@@ -90,13 +109,19 @@ table{
     color:white
 }
 h1{
-    font-size:30px;
+    font-size:40px;
     text-align:center;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:400px;
+    width:600px;
+    font-size:20px;
 }
+img{
+    width:45px;
+    }
     a:link{
         text-decoration:underline;
         color:white;
@@ -118,13 +143,19 @@ table{
     color:white
 }
 h1{
-    font-size:35px;
+    font-size:45px;
     text-align:center;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:400px;
+    width:500px;
+    font-size:30px;
 }
+img{
+    width:60px;
+    }
     a:link{
         text-decoration:underline;
         color:white;
@@ -146,12 +177,19 @@ table{
     color:white
 }
 h1{
+    font-size:60px;
     text-align:center;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    height:550px;
+    width:850px;
+    font-size:25px;
 }
+img{
+    width:70px;
+    }
 a:link{
         text-decoration:underline;
         color:white;
@@ -174,11 +212,18 @@ a:visited{
 }
 h1{
     text-align:center;
+    font-size:50px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
+    width:800px;
+    height:500px;
+    font-size:20px;
 }
+img{
+    width:50px;
+    }
 a:link{
     text-decoration:underline;
     color:white;
@@ -200,15 +245,15 @@ a:visited{
     color:white
 }
 h1{
-    font-size:150px;
+    font-size:120px;
     text-align:center;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:2000px;
-    width:800px;
-    font-size:80px;
+    height:1000px;
+    width:1900px;
+    font-size:60px;
 }
 img{
     width:130px;
@@ -226,7 +271,40 @@ a:active{
     }
 }
 
-@media screen and (min-device-width:3001px) and (max-device-width:5000px) {
+@media screen and (min-device-width:3001px) and (max-device-width:4000px) {
+    table{width:90%}
+    body{
+    background:url(international.jpg) top fixed;
+    background-size:100%;
+    font-family:arial;
+    color:white
+}
+h1{
+    font-size:140px;
+    text-align:center;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    height:700px;
+    font-size:100px;
+}
+img{
+    width:180px;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    }
+a:visited{
+    text-decoration:underline;
+    }
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:5000px) {
     table{width:90%}
     body{
     background:url(international.jpg) top fixed;
@@ -244,6 +322,9 @@ table{
     height:700px;
     font-size:100px;
 }
+img{
+    width:250px;
+    }
 a:link{
     text-decoration:underline;
     color:white;
