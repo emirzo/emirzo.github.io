@@ -1,0 +1,18 @@
+body{
+    background:url(Egyptfon.jpg) no-repeat;
+    background-size:100%;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+}
+#one{
+    width:130px;
+}
+#two{
+    width:180px;
+}
+#three{
+    width:360px;
+}

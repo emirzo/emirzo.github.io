@@ -1,0 +1,19 @@
+body{
+    background:url(koreafon.jpeg) no-repeat;
+    background-size:100%;
+    background-repeat:repeat;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+}
+#one{
+    width:130px;
+}
+#two{
+    width:180px;
+}
+#three{
+    width:360px;
+}

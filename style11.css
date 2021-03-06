@@ -1,0 +1,40 @@
+@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+    background:url(chinafon.jpg) no-repeat;
+    background-size:100%;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+}
+#one{
+    width:130px;
+}
+#two{
+    width:180px;
+}
+#three{
+    width:360px;
+}
+    
+    
+    body{
+    background:url(chinafon.jpg) no-repeat;
+    background-size:100%;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+}
+#one{
+    width:130px;
+}
+#two{
+    width:180px;
+}
+#three{
+    width:360px;
+}

@@ -1,23 +1,22 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
     body{
-    background-image:url(redsquare.jpg);
+    background-image:url(usafon.jpg) repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:50px;
+    font-size:40px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:22px;
+    font-size:;
 }
 #one{
-    width:230px;
+    width:130px;
 }
 #two{
     width:280px;
@@ -30,9 +29,8 @@ table{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
     body{
-    background-image:url(redsquare.jpg);
+    background-image:url(usafon.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -43,9 +41,10 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0;
+    font-size:;
 }
 #one{
-    width:130px;
+    width:180px;
 }
 #two{
     width:180px;
@@ -58,9 +57,8 @@ table{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
 body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg) no-repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -71,8 +69,8 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:20px;
-    }
+    font-size:;
+}
 #one{
     width:130px;
 }
@@ -80,16 +78,15 @@ table{
     width:220px;
 }
 #three{
-    width:300px;
+    width:360px;
 }
 }
 
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg) no-repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -100,25 +97,24 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:22px;
+    font-size:;
 }
 #one{
-    width:150px;
+    width:130px;
 }
 #two{
     width:180px;
 }
 #three{
-    width:300px;
+    width:360px;
 }
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
 body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg) no-repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -129,24 +125,23 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:22px;
+    font-size:;
 }
 #one{
-    width:180px;
+    width:130px;
 }
 #two{
     width:180px;
 }
 #three{
-    width:330px;
+    width:360px;
 }
     }
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg);
-    background-repeat: no-repeat;
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
     font-family:arial;
 }
@@ -158,37 +153,41 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
+    font-size:20px;
 }
 #one{
-    width:200px;
+    width:230px;
 }
 #two{
-    width:180px;
+    width:220px;
 }
 #three{
-    width:360px;
+    width:460px;
 }
     }
 
 @media screen and (min-device-width:1300px) and (max-device-width:1600px) {
     table{width:90%}
 body{
-    background-image:url(redsquare.jpg);
-    background-repeat: no-repeat;
+    background-image:url(usafon.jpg);
     background-size:100%;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:55px;
+    font-size:40px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
+    font-size:;
 }
 #one{
-    width:200px;
+    width:180px;
+}
+#two{
+    width:280px;
 }
 #three{
     width:360px;
@@ -198,9 +197,8 @@ table{
 @media screen and (min-device-width:1601px) and (max-device-width:2000px) {
     table{width:90%}
 body{
-    background-image:url(redsquare.jpg);
+    background-image:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -227,9 +225,8 @@ table{
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -256,9 +253,8 @@ table{
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
@@ -268,24 +264,24 @@ h1{
 table{
     margin-left:auto;
     margin-right:auto;
-    width:0;
+    width:0px;
+    font-size:30px;
 }
 #one{
-    width:130px;
+    width:330px;
 }
 #two{
-    width:180px;
+    width:400px;
 }
 #three{
-    width:360px;
+    width:660px;
 }
     }
 
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg)
-    background-repeat: no-repeat;
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
     font-family:arial;
 }
@@ -297,6 +293,7 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0;
+    font-size:;
 }
 #one{
     width:130px;
@@ -312,85 +309,83 @@ table{
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
     table{width:90%}
     body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:100px;
+    font-size:150px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
-    width:0;
+    width:0px;
+    font-size:50px;
 }
 #one{
-    width:130px;
+    width:430px;
 }
 #two{
-    width:180px;
+    width:700px;
 }
 #three{
-    width:360px;
+    width:860px;
 }
     }
 
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:160px;
+    font-size:180px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:80px;
+    font-size:60px;
 }
 #one{
     width:730px;
 }
 #two{
-    width:180px;
+    width:680px;
 }
 #three{
-    width:1400px;
+    width:1460px;
 }
     }
 
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
 body{
-    background:url(redsquare.jpg);
+    background:url(usafon.jpg)repeat top;
     background-size:100%;
-    background-repeat: no-repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:190px;
+    font-size:200px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:80px;
+    font-size:60px;
 }
 #one{
-    width:750px;
+    width:830px;
 }
 #two{
-    width:400px;
+    width:880px;
 }
 #three{
-    width:1400px;
+    width:1660px;
 }
     }
