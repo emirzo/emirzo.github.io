@@ -14,16 +14,16 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:22px;
+    font-size:20px;
 }
 #one{
     width:220px;
 }
 #two{
-    width:280px;
+    width:360px;
 }
 #three{
-    width:270px;
+    width:320px;
 }
 }
 
@@ -37,7 +37,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:50px;
+    font-size:45px;
     }
 table{
     margin-left:auto;
@@ -49,10 +49,10 @@ table{
     width:230px;
 }
 #two{
-    width:300px;
+    width:390px;
 }
 #three{
-    width:285px;
+    width:345px;
     }
 }
 
@@ -75,13 +75,13 @@ table{
     font-size:20px;
     }
 #one{
-    width:230px;
+    width:200px;
 }
 #two{
-    width:293px;
+    width:330px;
 }
 #three{
-    width:280px;
+    width:300px;
 }
 }
 
@@ -101,16 +101,16 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:21.99px;
+    font-size:20px;
 }
 #one{
-    width:240px;
+    width:220px;
 }
 #two{
-    width:290px;
+    width:350px;
 }
 #three{
-    width:280px;
+    width:310px;
 }
 }
 
@@ -136,10 +136,10 @@ table{
     width:240px;
 }
 #two{
-    width:300px;
+    width:410px;
 }
 #three{
-    width:290px;
+    width:360px;
 }
     }
 
@@ -153,22 +153,22 @@ table{
 }
 h1{
     text-align:center;
-    font-size:60px;
+    font-size:55px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:25px;
+    font-size:24px;
 }
 #one{
-    width:280px;
+    width:270px;
 }
 #two{
-    width:409px;
+    width:450px;
 }
 #three{
-    width:490px;
+    width:400px;
 }
     }
 
@@ -182,22 +182,22 @@ body{
 }
 h1{
     text-align:center;
-    font-size:70px;
+    font-size:65px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:35px;
+    font-size:30px;
 }
 #one{
-    width:370px;
+    width:350px;
 }
 #two{
     width:520px;
     }
 #three{
-    width:500px;
+    width:460px;
 }
 }
 
@@ -217,16 +217,16 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:45px;
+    font-size:41px;
 }
 #one{
     width:450px;
 }
 #two{
-    width:630px;
+    width:750px;
 }
 #three{
-    width:800px;
+    width:660px;
 }
 }
 
@@ -240,22 +240,22 @@ table{
 }
 h1{
     text-align:center;
-    font-size:120px;
+    font-size:110px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:50px;
+    font-size:45px;
 }
 #one{
-    width:580px;
+    width:550px;
 }
 #two{
-    width:800px;
+    width:880px;
 }
 #three{
-    width:900px;
+    width:780px;
 }
     }
 
@@ -269,7 +269,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:170px;
+    font-size:130px;
     }
 table{
     margin-left:auto;
@@ -281,7 +281,7 @@ table{
     width:650px;
 }
 #two{
-    width:970px;
+    width:1040px;
 }
 #three{
     width:920px;
@@ -313,7 +313,7 @@ table{
     width:1110px;
 }
 #three{
-    width:1060px;
+    width:990px;
 }
     }
 
@@ -327,7 +327,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:240px;
+    font-size:210px;
     }
 table{
     margin-left:auto;
@@ -339,10 +339,10 @@ table{
     width:900px;
 }
 #two{
-    width:1270px;
+    width:1470px;
 }
 #three{
-    width:1450px;
+    width:1300px;
 }
     }
 
@@ -356,22 +356,22 @@ body{
 }
 h1{
     text-align:center;
-    font-size:240px;
+    font-size:220px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:105px;
+    font-size:95px;
 }
 #one{
     width:1005px;
 }
 #two{
-    width:1400px;
+    width:1740px;
 }
 #three{
-    width:1750px;
+    width:1530px;
 }
     }
 

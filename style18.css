@@ -20,24 +20,24 @@ table{
     width:220px;
 }
 #two{
-    width:280px;
+    width:350px;
 }
 #three{
-    width:270px;
+    width:400px;
 }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
     body{
-    background-image:url(Egypt.png);
+    background-image:url(Egyptfon.jpg);
     background-size:100%;
     background-repeat: repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:50px;
+    font-size:55px;
     }
 table{
     margin-left:auto;
@@ -52,7 +52,7 @@ table{
     width:300px;
 }
 #three{
-    width:285px;
+    width:346px;
     }
 }
 
@@ -66,13 +66,13 @@ body{
 }
 h1{
     text-align:center;
-    font-size:50px;
+    font-size:55px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:20px;
+    font-size:22px;
     }
 #one{
     width:230px;
@@ -81,7 +81,7 @@ table{
     width:293px;
 }
 #three{
-    width:280px;
+    width:340px;
 }
 }
 
@@ -107,10 +107,10 @@ table{
     width:240px;
 }
 #two{
-    width:290px;
+    width:315px;
 }
 #three{
-    width:280px;
+    width:365px;
 }
 }
 
@@ -139,7 +139,7 @@ table{
     width:300px;
 }
 #three{
-    width:290px;
+    width:350px;
 }
     }
 
@@ -165,7 +165,7 @@ table{
     width:280px;
 }
 #two{
-    width:409px;
+    width:420px;
 }
 #three{
     width:490px;
@@ -197,7 +197,7 @@ table{
     width:520px;
     }
 #three{
-    width:500px;
+    width:600px;
 }
 }
 
@@ -226,7 +226,7 @@ table{
     width:630px;
 }
 #three{
-    width:800px;
+    width:740px;
 }
 }
 
@@ -240,7 +240,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:120px;
+    font-size:130px;
     }
 table{
     margin-left:auto;
@@ -249,15 +249,15 @@ table{
     font-size:50px;
 }
 #one{
-    width:580px;
+    width:500px;
 }
 #two{
-    width:800px;
+    width:700px;
 }
 #three{
-    width:900px;
+    width:810px;
 }
-    }
+    1}
 
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
     table{width:90%}
@@ -339,10 +339,10 @@ table{
     width:900px;
 }
 #two{
-    width:1270px;
+    width:1370px;
 }
 #three{
-    width:1450px;
+    width:1580px;
 }
     }
 
@@ -368,10 +368,10 @@ table{
     width:1005px;
 }
 #two{
-    width:1400px;
+    width:1600px;
 }
 #three{
-    width:1750px;
+    width:1850px;
 }
     }
 
@@ -400,6 +400,6 @@ table{
     width:1730px;
 }
 #three{
-    width:1850px;
+    width:2000px;
 }
     }

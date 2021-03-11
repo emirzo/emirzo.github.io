@@ -104,13 +104,13 @@ table{
     font-size:21.99px;
 }
 #one{
-    width:240px;
+    width:220px;
 }
 #two{
     width:290px;
 }
 #three{
-    width:280px;
+    width:299px;
 }
 }
 
@@ -133,7 +133,7 @@ table{
     font-size:22px;
 }
 #one{
-    width:240px;
+    width:220px;
 }
 #two{
     width:300px;
@@ -162,13 +162,13 @@ table{
     font-size:25px;
 }
 #one{
-    width:280px;
+    width:260px;
 }
 #two{
     width:409px;
 }
 #three{
-    width:490px;
+    width:440px;
 }
     }
 
@@ -188,16 +188,16 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:35px;
+    font-size:30px;
 }
 #one{
-    width:370px;
+    width:300px;
 }
 #two{
     width:520px;
     }
 #three{
-    width:500px;
+    width:480px;
 }
 }
 
@@ -211,22 +211,22 @@ body{
 }
 h1{
     text-align:center;
-    font-size:120px;
+    font-size:100px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:45px;
+    font-size:40px;
 }
 #one{
-    width:450px;
+    width:380px;
 }
 #two{
     width:630px;
 }
 #three{
-    width:800px;
+    width:600px;
 }
 }
 
@@ -240,22 +240,22 @@ table{
 }
 h1{
     text-align:center;
-    font-size:120px;
+    font-size:110px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:50px;
+    font-size:48px;
 }
 #one{
-    width:580px;
+    width:530px;
 }
 #two{
     width:800px;
 }
 #three{
-    width:900px;
+    width:800px;
 }
     }
 
@@ -269,7 +269,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:170px;
+    font-size:160px;
     }
 table{
     margin-left:auto;
@@ -278,13 +278,13 @@ table{
     font-size:55px;
 }
 #one{
-    width:650px;
+    width:600px;
 }
 #two{
-    width:970px;
+    width:950px;
 }
 #three{
-    width:920px;
+    width:1000px;
 }
     }
 
@@ -304,7 +304,7 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:62px;
+    font-size:65px;
 }
 #one{
     width:750px;
@@ -313,7 +313,7 @@ table{
     width:1110px;
 }
 #three{
-    width:1060px;
+    width:1200px;
 }
     }
 
@@ -327,7 +327,7 @@ table{
 }
 h1{
     text-align:center;
-    font-size:240px;
+    font-size:200px;
     }
 table{
     margin-left:auto;
@@ -336,7 +336,7 @@ table{
     font-size:85px;
 }
 #one{
-    width:900px;
+    width:850px;
 }
 #two{
     width:1270px;
@@ -356,7 +356,7 @@ body{
 }
 h1{
     text-align:center;
-    font-size:240px;
+    font-size:220px;
     }
 table{
     margin-left:auto;
@@ -371,7 +371,7 @@ table{
     width:1400px;
 }
 #three{
-    width:1750px;
+    width:1720px;
 }
     }
 
