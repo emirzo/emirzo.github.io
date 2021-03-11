@@ -1,18 +1,405 @@
-body{
-    background:url(greecefon.jpg) no-repeat;
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90%}
+    body{
+    background-image:url(greecefon.jpg);
     background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
 }
+h1{
+    text-align:center;
+    font-size:60px;
+    }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
+    font-size:22px;
 }
 #one{
-    width:130px;
+    width:220px;
 }
 #two{
+    width:380px;
+}
+#three{
+    width:310px;
+}
+}
+
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90%}
+    body{
+    background-image:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:22px;
+}
+#one{
+    width:200px;
+}
+#two{
+    width:340px;
+}
+#three{
+    width:285px;
+    }
+}
+
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90%}
+body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:20px;
+    }
+#one{
     width:180px;
+}
+#two{
+    width:329px;
+}
+#three{
+    width:280px;
+}
+}
+
+@media screen and (min-device-width:601px) and (max-device-width:660px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:21.99px;
+}
+#one{
+    width:170px;
+}
+#two{
+    width:330px;
+}
+#three{
+    width:280px;
+}
+}
+
+@media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:22px;
+}
+#one{
+    width:190px;
+}
+#two{
+    width:350px;
+}
+#three{
+    width:300px;
+}
+    }
+
+@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:60px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:25px;
+}
+#one{
+    width:280px;
+}
+#two{
+    width:420px;
 }
 #three{
     width:360px;
 }
+    }
+
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background-image:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:75px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:35px;
+}
+#one{
+    width:330px;
+}
+#two{
+    width:520px;
+    }
+#three{
+    width:450px;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background-image:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:100px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:45px;
+}
+#one{
+    width:400px;
+}
+#two{
+    width:630px;
+}
+#three{
+    width:550px;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:130px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:50px;
+}
+#one{
+    width:480px;
+}
+#two{
+    width:830px;
+}
+#three{
+    width:700px;
+}
+    }
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:160px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:55px;
+}
+#one{
+    width:600px;
+}
+#two{
+    width:970px;
+}
+#three{
+    width:810px;
+}
+    }
+
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:180px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:65px;
+}
+#one{
+    width:750px;
+}
+#two{
+    width:1190px;
+}
+#three{
+    width:1000px;
+}
+    }
+
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+    body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:220px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:85px;
+}
+#one{
+    width:800px;
+}
+#two{
+    width:1270px;
+}
+#three{
+    width:1070px;
+}
+    }
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:240px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:105px;
+}
+#one{
+    width:850px;
+}
+#two{
+    width:1510px;
+}
+#three{
+    width:1270px;
+}
+    }
+
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
+    table{width:90%}
+body{
+    background:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:250px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:120px;
+}
+#one{
+    width:950px;
+}
+#two{
+    width:1710px;
+}
+#three{
+    width:1450px;
+}
+    }

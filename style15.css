@@ -1,18 +1,405 @@
-body{
-    background:url(netherlandsfon.jpg) no-repeat;
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90%}
+    body{
+    background-image:url(netherlandsfon.jpg);
     background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
 }
+h1{
+    text-align:center;
+    font-size:50px;
+    }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
+    font-size:22px;
 }
 #one{
-    width:130px;
+    width:220px;
 }
 #two{
-    width:180px;
+    width:280px;
 }
 #three{
-    width:360px;
+    width:270px;
 }
+}
+
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90%}
+    body{
+    background-image:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:22px;
+}
+#one{
+    width:230px;
+}
+#two{
+    width:300px;
+}
+#three{
+    width:285px;
+    }
+}
+
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90%}
+body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:20px;
+    }
+#one{
+    width:230px;
+}
+#two{
+    width:293px;
+}
+#three{
+    width:280px;
+}
+}
+
+@media screen and (min-device-width:601px) and (max-device-width:660px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:50px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:21.99px;
+}
+#one{
+    width:240px;
+}
+#two{
+    width:290px;
+}
+#three{
+    width:280px;
+}
+}
+
+@media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:55px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:22px;
+}
+#one{
+    width:240px;
+}
+#two{
+    width:300px;
+}
+#three{
+    width:290px;
+}
+    }
+
+@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:60px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:25px;
+}
+#one{
+    width:280px;
+}
+#two{
+    width:409px;
+}
+#three{
+    width:490px;
+}
+    }
+
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background-image:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:70px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:35px;
+}
+#one{
+    width:370px;
+}
+#two{
+    width:520px;
+    }
+#three{
+    width:500px;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background-image:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:120px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:45px;
+}
+#one{
+    width:450px;
+}
+#two{
+    width:630px;
+}
+#three{
+    width:800px;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:120px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:50px;
+}
+#one{
+    width:580px;
+}
+#two{
+    width:800px;
+}
+#three{
+    width:900px;
+}
+    }
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:170px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:55px;
+}
+#one{
+    width:650px;
+}
+#two{
+    width:970px;
+}
+#three{
+    width:920px;
+}
+    }
+
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:180px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:62px;
+}
+#one{
+    width:750px;
+}
+#two{
+    width:1110px;
+}
+#three{
+    width:1060px;
+}
+    }
+
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+    body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:240px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:85px;
+}
+#one{
+    width:900px;
+}
+#two{
+    width:1270px;
+}
+#three{
+    width:1450px;
+}
+    }
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:240px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:105px;
+}
+#one{
+    width:1005px;
+}
+#two{
+    width:1400px;
+}
+#three{
+    width:1750px;
+}
+    }
+
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
+    table{width:90%}
+body{
+    background:url(netherlandsfon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:280px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0;
+    font-size:120px;
+}
+#one{
+    width:1150px;
+}
+#two{
+    width:1730px;
+}
+#three{
+    width:1850px;
+}
+    }
