@@ -5,23 +5,28 @@
         color:white;
         background: url(MainBlur.png) top repeat fixed;  
         text-align:center;
-    }
+        }
     h2{
+        font-size:25px;
      }
     table{
         margin-left:auto;
         margin-right:auto;
     }
+    p{
+        font-size:10px;
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:40px;
     }
     #two{
         width:1000px;
     }
     #three{
-        width:230px;
-        height:120px;
+        width:300px;
+        height:190px;
     }
     #four{
         width:890px;
@@ -30,11 +35,15 @@
         width:1000px;
     }
     #six{
-        height:10px;
         width:20px;
     }
     #seven{
-        font-size:12px;
+        margin-right:190px;
+        width:700px;
+    }
+    button{
+        width:auto;
+        height:auto;
     }
     a:link{
         text-decoration:underline;
@@ -59,16 +68,20 @@
         text-align:center;
     }
     h2{
-        
+        font-size:30px;
     }
     table{
         margin-left:auto;
         margin-right:auto;
         font-size:20px;
     }
+    p{
+        font-size:10px;
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:40px;
     }
     #two{
         width:1000px;
@@ -84,15 +97,20 @@
         width:1000px;
     }
     #six{
-        height:10px;
         width:20px;
     }
     #seven{
         font-size:10px;
+        margin-right:95px;
+    }
+    button{
+        width:80px;
+        height:27px;
+        font-size:16px;
     }
     a:link{
         text-decoration:underline;
-        color:white
+        color:white;
     }
     a:active{
         text-decoration:none;
@@ -111,6 +129,12 @@
         color:white;
         background: url(MainBlur.png) top repeat fixed;  
     }
+    h2{
+        font-size:27px;
+    }
+    p{
+        font-size:15px;
+    }
      table{
         margin-left:auto;
         margin-right:auto;
@@ -118,23 +142,38 @@
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:40px;
     }
     #two{
         width:1000px;
     }
     #three{
-        width:430px;
-        height:280px;
+        width:320px;
+        height:210px;
     }
     #four{
-        width:690px;
+        width:800px;
+        font-size:20px;
     }
     #five{
-        width:1270px;
+        width:800px;
+        font-size:19px;
     }
     #six{
-        height:10px;
-        width:20px;
+        width:25px;
+    }
+    #seven{
+        font-size:10px;
+        margin-right:130px;
+    }
+    #eight{
+        width:900px;
+        font-size: 20px;
+    }
+    button{
+        width:80px;
+        height:27px;
+        font-size:16px;
     }
     a:link{
         text-decoration:underline;
@@ -161,26 +200,44 @@
         margin-left:auto;
         margin-right:auto;
     }
+    p{
+        font-size:13px;
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:35px;
     }
     #two{
         width:1000px;
     }
     #three{
-        width:430px;
-        height:280px;
+        width:320px;
+        height:200px;
     }
     #four{
-        width:690px;
+        width:790px;
+        font-size:18px;
     }
     #five{
-        width:1270px;
+        width:870px;
+        font-size:18px;
     }
     #six{
-        height:10px;
-        width:20px;
+        width:25px;
+    }
+    #seven{
+        font-size:10px;
+        margin-right:134px;
+    }
+    #eight{
+        width:850px;
+        font-size:18px;
+    }
+    button{
+        width:80px;
+        height:27px;
+        font-size:16px;
     }
     a:link{
         text-decoration:underline;
@@ -207,26 +264,47 @@
         margin-left:auto;
         margin-right:auto;
     }
+    h2{
+        font-size:32px;
+    }
+    p{
+        font-size:15px;
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:45px
     }
     #two{
         width:1000px;
     }
     #three{
-        width:430px;
-        height:280px;
+        width:330px;
+        height:200px;
     }
     #four{
         width:690px;
+        font-size:20px;
     }
     #five{
-        width:1270px;
+        width:900px;
+        font-size:20px;
     }
     #six{
-        height:10px;
-        width:20px;
+        width:25px;
+    }
+    #seven{
+        font-size:10px;
+        margin-right:134px;
+    }
+    #eight{
+        width:850px;
+        font-size:23px;
+    }
+    button{
+        width:80px;
+        height:27px;
+        font-size:16px;
     }
     a:link{
         text-decoration:underline;
@@ -253,26 +331,44 @@
         margin-left:auto;
         margin-right:auto;
     }
+    h2{
+        font-size:30px;
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:40px;
     }
     #two{
         width:1000px;
     }
     #three{
-        width:430px;
-        height:280px;
+        width:400px;
+        height:270px;
     }
     #four{
-        width:690px;
+        width:820px;
+        font-size:20px;
     }
     #five{
-        width:1270px;
+        width:1070px;
+        font-size:20px;
     }
     #six{
-        height:10px;
-        width:20px;
+        width:25px;
+    }
+    #seven{
+        font-size:10px;
+        margin-right:150px;
+    }
+    #eight{
+        width:850px;
+        font-size:20px;
+    }
+    button{
+        width:100px;
+        height:30px;
+        font-size:22px;
     }
     a:link{
         text-decoration:underline;
@@ -288,7 +384,7 @@
     }
     }
 
-@media screen and (min-device-width:1300px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
     table{width:90%}
     body{
         font-family:arial;
@@ -299,26 +395,112 @@
         margin-left:auto;
         margin-right:auto;
     }
+    h2{
+      font-size:50px;  
+    }
     #one{
         color:yellow;
         font-family:Verdana;
+        font-size:60px;
     }
     #two{
-        width:1000px;
+        width:1600px;
+        font-size:30px;
     }
     #three{
-        width:430px;
-        height:280px;
+        width:500px;
+        height:300px;
     }
     #four{
-        width:690px;
+        width:1290px;
+        font-size:30px;
     }
     #five{
-        width:1270px;
+        width:1570px;
+        font-size:30px;
     }
     #six{
-        height:10px;
-        width:20px;
+        width:35px;
+        font-size:;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1400px;
+        font-size:30px;
+    }
+    button{
+        width:200px;
+        height:auto;
+        font-size:27px;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white
+    }
+    a:active{
+        text-decoration:none;
+        color:gainsboro;
+    }
+    a:visited{
+        text-decoration:none;
+        color:blue;
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h2{
+      font-size:50px;  
+    }
+    #one{
+        color:yellow;
+        font-family:Verdana;
+        font-size:60px;
+    }
+    #two{
+        width:1600px;
+        font-size:30px;
+    }
+    #three{
+        width:600px;
+        height:360px;
+    }
+    #four{
+        width:1290px;
+        font-size:30px;
+    }
+    #five{
+        width:1570px;
+        font-size:30px;
+    }
+    #six{
+        width:35px;
+        font-size:;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    button{
+        width:200px;
+        height:auto;
+        font-size:27px;
     }
     a:link{
         text-decoration:underline;
@@ -409,7 +591,6 @@
         width:1270px;
     }
     #six{
-        height:10px;
         width:20px;
     }
     a:link{
@@ -455,7 +636,6 @@
         width:1270px;
     }
     #six{
-        height:10px;
         width:20px;
     }
     a:link{
@@ -501,7 +681,6 @@
         width:1270px;
     }
     #six{
-        height:10px;
         width:20px;
     }
     a:link{
@@ -518,7 +697,7 @@
     }
 }
 
-@media screen and (min-device-width:4001px) and (max-device-width:5000px) {
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
     body{
         font-family:arial;
@@ -547,7 +726,51 @@
         width:1270px;
     }
     #six{
-        height:10px;
+        width:20px;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white
+    }
+    a:active{
+        text-decoration:none;
+        color:gainsboro;
+    }
+    a:visited{
+        text-decoration:none;
+        color:blue;
+    }
+}
+
+@media screen and (min-device-width:5001px) and (max-device-width:5000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    #one{
+        color:yellow;
+        font-family:Verdana;
+    }
+    #two{
+        width:1000px;
+    }
+    #three{
+        width:330px;
+        height:200px;
+    }
+    #four{
+        width:690px;
+    }
+    #five{
+        width:1270px;
+    }
+    #six{
         width:20px;
     }
     a:link{
