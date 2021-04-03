@@ -25,6 +25,12 @@ table{
 #three{
     width:360px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
@@ -140,6 +146,12 @@ table{
 #three{
     width:350px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
@@ -169,6 +181,12 @@ table{
 #three{
     width:450px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:1300px) and (max-device-width:1600px) {
@@ -195,6 +213,12 @@ table{
 #three{
     width:400px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:1601px) and (max-device-width:2000px) {
@@ -223,6 +247,12 @@ table{
 #three{
     width:700px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
@@ -251,6 +281,12 @@ table{
 #three{
     width:850px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
@@ -280,6 +316,12 @@ table{
 #three{
     width:950px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
@@ -336,6 +378,12 @@ table{
 #three{
     width:1300px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {

@@ -25,6 +25,12 @@ table{
 #three{
     width:270px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
@@ -53,6 +59,12 @@ table{
 }
 #three{
     width:285px;
+    }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
     }
 }
 
@@ -83,6 +95,12 @@ table{
 #three{
     width:280px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
@@ -112,6 +130,12 @@ table{
 #three{
     width:280px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
@@ -141,6 +165,12 @@ table{
 #three{
     width:290px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
@@ -170,6 +200,12 @@ table{
 #three{
     width:400px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:1300px) and (max-device-width:1600px) {
@@ -196,6 +232,12 @@ table{
 #three{
     width:450px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:1601px) and (max-device-width:2000px) {
@@ -225,6 +267,12 @@ table{
 #three{
     width:600px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
@@ -254,6 +302,12 @@ table{
 #three{
     width:750px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
@@ -283,6 +337,12 @@ table{
 #three{
     width:920px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
     }
 
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
@@ -311,6 +371,15 @@ table{
 }
 #three{
     width:1060px;
+}
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+    width:100px;
 }
     }
 
