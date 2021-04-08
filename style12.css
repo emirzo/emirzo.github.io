@@ -25,6 +25,15 @@ table{
 #three{
     width:310px;
 }
+#four{
+    width:80px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:80px;   
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
@@ -53,6 +62,15 @@ table{
 }
 #three{
     width:285px;
+    }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:75px;   
     }
 }
 
@@ -112,6 +130,15 @@ table{
 #three{
     width:280px;
 }
+#four{
+    width:70px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:70px;   
+    }
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
@@ -141,7 +168,16 @@ table{
 #three{
     width:300px;
 }
+#four{
+    width:75px;   
     }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:75px;   
+    }
+}
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
@@ -170,9 +206,18 @@ table{
 #three{
     width:360px;
 }
+#four{
+    width:80px;   
+    }
+#five{
+    width:1290px; 
+    }
+#six{
+     width:80px;   
+    }
     }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
 body{
     background-image:url(greecefon.jpg);
@@ -199,9 +244,56 @@ table{
 #three{
     width:450px;
 }
+#four{
+    width:85px;   
+    }
+#five{
+    width:1280px; 
+    }
+#six{
+     width:85px;   
+    }
 }
 
-@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background-image:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:75px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:35px;
+}
+#one{
+    width:330px;
+}
+#two{
+    width:520px;
+    }
+#three{
+    width:450px;
+}
+#four{
+    width:90px;   
+    }
+#five{
+    width:1450px; 
+    }
+#six{
+     width:90px;   
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
     background-image:url(greecefon.jpg);
@@ -228,6 +320,53 @@ table{
 #three{
     width:550px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1600px; 
+    }
+#six{
+     width:100px;   
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background-image:url(greecefon.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:100px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:45px;
+}
+#one{
+    width:400px;
+}
+#two{
+    width:630px;
+}
+#three{
+    width:550px;
+}
+#four{
+    width:120px;   
+    }
+#five{
+    width:1800px; 
+    }
+#six{
+     width:120px;   
+    }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {

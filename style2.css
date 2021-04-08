@@ -31,6 +31,9 @@ table{
 #five{
     width:1000px; 
     }
+#six{
+     width:80px;   
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
@@ -65,6 +68,9 @@ table{
 #five{
     width:1000px; 
     }
+#six{
+     width:75px;   
+    }
 }
 
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
@@ -95,10 +101,13 @@ table{
     width:300px;
 }
 #four{
-    width:100px;   
+    width:70px;   
     }
 #five{
     width:1000px; 
+    }
+#six{
+     width:70px;   
     }
 }
 
@@ -130,10 +139,13 @@ table{
     width:300px;
 }
 #four{
-    width:100px;   
+    width:70px;   
     }
 #five{
     width:1000px; 
+    }
+#six{
+     width:70px;   
     }
 }
 
@@ -164,7 +176,16 @@ table{
 #three{
     width:330px;
 }
+#four{
+    width:75px;   
     }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:75px;   
+    }
+}
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
@@ -192,9 +213,18 @@ table{
 #three{
     width:360px;
 }
+#four{
+    width:80px;   
+    }
+#five{
+    width:1290px; 
+    }
+#six{
+     width:80px;   
+    }
     }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
 body{
     background-image:url(redsquare.jpg);
@@ -218,14 +248,52 @@ table{
     width:360px;
 }
 #four{
-    width:100px;   
+    width:85px;   
     }
 #five{
-    width:1000px; 
+    width:1280px; 
+    }
+#six{
+     width:85px;   
     }
 }
 
-@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background-image:url(redsquare.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:70px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:29.99px;
+}
+#one{
+    width:280px;
+}
+#two{
+    width:280px;
+}
+#four{
+    width:90px;   
+    }
+#five{
+    width:1450px; 
+    }
+#six{
+     width:90px;   
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
     background-image:url(redsquare.jpg);
@@ -256,7 +324,48 @@ table{
     width:100px;   
     }
 #five{
-    width:1000px; 
+    width:1600px; 
+    }
+#six{
+     width:100px;   
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background-image:url(redsquare.jpg);
+    background-size:100%;
+    background-repeat: repeat;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:70px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:29.99px;
+}
+#one{
+    width:280px;
+}
+#two{
+    width:280px;
+}
+#three{
+    width:560px;
+}
+#four{
+    width:120px;   
+    }
+#five{
+    width:1800px; 
+    }
+#six{
+     width:120px;   
     }
 }
 

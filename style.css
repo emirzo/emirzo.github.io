@@ -1,7 +1,8 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
     body{
-    background-image:url(usafon.jpg) repeat top;
+    background-image:url(usafon.jpg);
+    background-repeat:repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -16,14 +17,23 @@ table{
     font-size:;
 }
 #one{
-    width:130px;
+    width:250px;
 }
 #two{
     width:280px;
 }
 #three{
-    width:360px;
+    width:500px;
 }
+#four{
+    width:70px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:70px;   
+    }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
@@ -47,24 +57,28 @@ table{
     width:180px;
 }
 #two{
-    width:180px;
+    width:250px;
 }
 #three{
     width:360px;
     }
 #four{
-    width:100px;   
+    width:80px;   
     }
 #five{
     width:1000px; 
+    }
+#six{
+     width:75px;   
     }
 }
 
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
 body{
-    background:url(usafon.jpg) no-repeat top;
+    background:url(usafon.jpg);
     background-size:100%;
+    background-repeat:repeat;
     font-family:arial;
 }
 h1{
@@ -78,7 +92,7 @@ table{
     font-size:;
 }
 #one{
-    width:130px;
+    width:180px;
 }
 #two{
     width:220px;
@@ -87,18 +101,22 @@ table{
     width:360px;
 }
 #four{
-    width:100px;   
+    width:70px;   
     }
 #five{
     width:1000px; 
+    }
+#six{
+     width:70px;   
     }
 }
 
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
     body{
-    background:url(usafon.jpg) no-repeat top;
+    background:url(usafon.jpg);
     background-size:100%;
+    background-repeat:repeat;
     font-family:arial;
 }
 h1{
@@ -112,27 +130,31 @@ table{
     font-size:;
 }
 #one{
-    width:130px;
+    width:150px;
 }
 #two{
-    width:180px;
+    width:200px;
 }
 #three{
-    width:360px;
+    width:300px;
 }
 #four{
-    width:100px;   
+    width:70px;   
     }
 #five{
     width:1000px; 
+    }
+#six{
+     width:70px;   
     }
 }
 
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
 body{
-    background:url(usafon.jpg) no-repeat top;
+    background:url(usafon.jpg);
     background-size:100%;
+    background-repeat:repeat;
     font-family:arial;
 }
 h1{
@@ -146,21 +168,24 @@ table{
     font-size:;
 }
 #one{
-    width:130px;
+    width:180px;
 }
 #two{
-    width:180px;
+    width:200px;
 }
 #three{
     width:360px;
 }
 #four{
-    width:100px;   
+    width:75px;   
     }
 #five{
     width:1000px; 
     }
+#six{
+     width:75px;   
     }
+}
 
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
@@ -189,14 +214,17 @@ table{
     width:460px;
 }
 #four{
-    width:100px;   
+    width:80px;   
     }
 #five{
-    width:1000px; 
+    width:1290px; 
+    }
+#six{
+     width:80px;   
     }
     }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
 body{
     background-image:url(usafon.jpg);
@@ -223,14 +251,17 @@ table{
     width:440px;
 }
 #four{
-    width:100px;   
+    width:85px;   
     }
 #five{
-    width:1000px; 
+    width:1280px; 
+    }
+#six{
+     width:85px;   
     }
 }
 
-@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
     table{width:90%}
 body{
     background-image:url(usafon.jpg);
@@ -245,7 +276,44 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:28px;
+    font-size:22px;
+}
+#one{
+    width:250px;
+}
+#two{
+    width:280px;
+}
+#three{
+    width:500px;
+}
+#four{
+    width:90px;   
+    }
+#five{
+    width:1450px; 
+    }
+#six{
+     width:90px;   
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+body{
+    background-image:url(usafon.jpg);
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:60px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:30px;
 }
 #one{
     width:280px;
@@ -260,7 +328,47 @@ table{
     width:100px;   
     }
 #five{
-    width:1000px; 
+    width:1600px; 
+    }
+#six{
+     width:100px;   
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+body{
+    background-image:url(usafon.jpg);
+    background-size:100%;
+    font-family:arial;
+}
+h1{
+    text-align:center;
+    font-size:60px;
+    }
+table{
+    margin-left:auto;
+    margin-right:auto;
+    width:0px;
+    font-size:30px;
+}
+#one{
+    width:280px;
+}
+#two{
+    width:340px;
+}
+#three{
+    width:560px;
+}
+#four{
+    width:120px;   
+    }
+#five{
+    width:1800px; 
+    }
+#six{
+     width:120px;   
     }
 }
 
@@ -291,13 +399,13 @@ table{
     width:660px;
 }
 #four{
-    width:100px;   
+    width:150px;   
     }
 #five{
-    width:1000px; 
+    width:2000px; 
     }
-six{
-        
+#six{
+     width:150px;   
     }
     }
 
@@ -327,6 +435,15 @@ table{
 #three{
     width:660px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:100px;   
+    }
     }
 
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
@@ -355,6 +472,15 @@ table{
 #three{
     width:360px;
 }
+#four{
+    width:100px;   
+    }
+#five{
+    width:1000px; 
+    }
+#six{
+     width:100px;   
+    }
     }
 
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
@@ -389,6 +515,9 @@ table{
 #five{
     width:1000px; 
     }
+#six{
+     width:100px;   
+    }
     }
 
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
@@ -400,24 +529,32 @@ body{
 }
 h1{
     text-align:center;
-    font-size:180px;
+    font-size:160px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
-    width:0;
-    font-size:60px;
+    font-size:65px;
 }
 #one{
-    width:730px;
+    width:1000px;
 }
 #two{
-    width:680px;
+    width:780px;
 }
 #three{
-    width:1460px;
+   width:2000px;     
 }
+#four{
+    width:300px;   
     }
+#five{
+    width:4000px; 
+    }
+#six{
+     width:260px;   
+    }
+}
 
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
@@ -446,9 +583,12 @@ table{
     width:1660px;
 }
 #four{
-    width:100px;   
+    width:300px;   
     }
 #five{
-    width:1000px; 
+    width:4400px; 
+    }
+#six{
+     width:300px;   
     }
     }
