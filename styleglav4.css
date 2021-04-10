@@ -17,20 +17,20 @@ table{
     font-size:;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:205px;
+    width:300px;  
     }
 #two{
     height:300px; 
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:460px; 
+    height:255px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:450px; 
+    height:250px; 
     }
 #six{
      width:70px;   
@@ -55,20 +55,20 @@ table{
     font-size:;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:255px;
+    width:400px;  
     }
 #two{
     height:300px; 
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:460px; 
+    height:255px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:400px; 
+    height:260px; 
     }
 #six{
      width:75px;   
@@ -94,20 +94,20 @@ table{
     font-size:;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:205px;
+    width:300px;  
     }
 #two{
     height:300px; 
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:500px; 
+    height:275px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:450px; 
+    height:280px; 
     }
 #six{
      width:70px;   
@@ -133,20 +133,20 @@ table{
     font-size:;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:205px;
+    width:330px;  
     }
 #two{
     height:300px; 
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:500px; 
+    height:280px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:450px; 
+    height:290px; 
     }
 #six{
      width:70px;   
@@ -172,23 +172,23 @@ table{
     font-size:;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:205px;
+    width:340px;  
     }
 #two{
     height:300px; 
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:460px; 
+    height:265px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:450px; 
+    height:270px; 
     }
 #six{
-     width:75px;   
+     width:73px;   
     }
 }
 
@@ -298,12 +298,12 @@ table{
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:640px; 
+    height:355px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:600px; 
+    height:350px; 
     }
 }
 
@@ -321,7 +321,7 @@ h1{
 table{
     margin-left:auto;
     margin-right:auto;
-    width:0px;
+    width:1000px;
     font-size:30px;
 }
 #six{
@@ -333,15 +333,15 @@ table{
     }
 #two{
     height:300px; 
-    width:500px;
+    width:1600px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:660px; 
+    height:350px;    
     }
 video{
     width:550px; 
-    height:320px; 
+    height:400px; 
     }
 }
 
@@ -374,12 +374,12 @@ table{
     width:500px;
     }
 #three{
-    width:560px; 
-    height:315px;    
+    width:680px; 
+    height:385px;    
     }
 video{
-    width:550px; 
-    height:320px; 
+    width:650px; 
+    height:420px; 
     }
 }
 
