@@ -15,15 +15,12 @@
         font-size:47px;  
     }
     h3{
-        font-size:20px;
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:400px;
-        height:;
-        font-size:15px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
         width:1000px;
@@ -38,7 +35,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat:repeat;
         text-align:center;
     }
    table{
@@ -46,19 +44,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:28px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:21px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:7px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -77,22 +74,21 @@
         margin-right:auto;
     }
     h1{
-        font-size:37px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:23px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:8px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
-        width:60px;
+        width:50px;
     }
 }
 
@@ -108,32 +104,21 @@
         margin-right:auto;
     }
     h1{
-        font-size:40px;  
-    }
-    h2{
-        font-size:25px;
+        font-size:47px;  
     }
     h3{
         font-size:19px;
     }
-    p{
-        font-size:10px;
-     }
     #one{
-        width:1000px;
-        font-size:17px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
-        height:690px;
-        font-size:17px;
-    }
-    #three{
-        width:500px;
-        height:690px;
+        width:1000px;
     }
     #six{
-        width:60px;
+        width:50px;
     }
     }
 
@@ -149,24 +134,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:40px;  
+        font-size:50px;  
     }
-    h2{
-        font-size:32px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:13px;
-     }
     #one{
-        width:1000px;
+        width:490px;
+        height:700px;
+        font-size:15px;
     }
     #two{
-        width:500px;
-        height:690px;
-    }
-    #three{
-        width:500px;
-        height:690px;
+        width:1000px;
     }
     #six{
         width:55px;
@@ -185,28 +164,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:47px;  
-    }
-    h2{
-        font-size:37px;
+        font-size:50px;  
     }
     h3{
-        font-size:21px;
+        font-size:22px;
     }
-    p{
-        font-size:15px;
-     }
     #one{
-        width:1200px;
-        font-size:18px;
+        width:600px;
+        height:450px;
+        font-size:19px;
     }
     #two{
-        width:550px;
-        height:690px;
-    }
-    #three{
-        width:500px;
-        height:690px;
+        width:1300px;
     }
     #six{
         width:60px;
@@ -226,25 +195,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:60px;  
+        font-size:50px;  
     }
-    h2{
-        font-size:45px;
+    h3{
+        font-size:24px;
     }
-    p{
-        font-size:20px;
-     }
     #one{
-        width:1350px;
+        width:650px;
+        height:400px;
         font-size:20px;
     }
     #two{
-        width:610px;
-         height:790px;
-    }
-    #three{
-        width:600px;
-        height:790px;
+        width:1400px;
     }
     #six{
         width:70px;
@@ -263,31 +225,21 @@
         margin-right:auto;
     }
     h1{
-        font-size:67px;  
-    }
-    h2{
-        font-size:50px;
+        font-size:57px;  
     }
     h3{
-
+        font-size:27px;
     }
-    p{
-        font-size:20px;
-     }
     #one{
-        width:1600px;
-        font-size:26px;
+        width:650px;
+        height:650px;
+        font-size:22px;
     }
     #two{
-        width:800px;
-        height:1190px;
-    }
-    #three{
-        width:700px;
-        height:1190px;
+        width:1500px;
     }
     #six{
-        width:80px;
+        width:50px;
     }
 }
 
@@ -303,31 +255,21 @@
         margin-right:auto;
     }
     h1{
-        font-size:77px;  
-    }
-    h2{
-        font-size:50px;
+        font-size:67px;  
     }
     h3{
-        font-size:30px;
+        font-size:32px;
     }
-    p{
-        font-size:24px;
-     }
     #one{
-        width:1700px;
-        font-size:30px;
+        width:750px;
+        height:700px;
+        font-size:25px;
     }
     #two{
-        width:900px;
-        height:1150px;
-    }
-    #three{
-        width:750px;
-        height:1150px;
+        width:1800px;
     }
     #six{
-        width:100px;
+        width:70px;
     }
 }
 
@@ -343,22 +285,21 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:70px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:32px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:850px;
+        height:400px;
+        font-size:27px;
     }
     #two{
-        width:500px;
+        width:1900px;
     }
     #six{
-        width:50px;
+        width:70px;
     }
 }
 
@@ -374,19 +315,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -405,19 +345,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -436,19 +375,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -467,19 +405,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -498,19 +435,18 @@
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
@@ -524,24 +460,23 @@
         color:white;
         background: url(MainBlur.png) top repeat fixed;  
     }
-     table{
+    table{
         margin-left:auto;
         margin-right:auto;
     }
     h1{
-        font-size:27px;  
+        font-size:47px;  
     }
-    h2{
-        font-size:20px;
+    h3{
+        font-size:19px;
     }
-    p{
-        font-size:6px;
-     }
     #one{
-        width:1000px;
+        width:450px;
+        height:400px;
+        font-size:14px;
     }
     #two{
-        width:500px;
+        width:1000px;
     }
     #six{
         width:50px;
