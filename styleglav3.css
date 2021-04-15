@@ -1,7 +1,7 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
     body{
-    background-image:url(100m_run.jpeg);
+    background-image:url(BluryFire.png);
     background-repeat:repeat;
     background-size:100%;
     font-family:arial;
@@ -17,20 +17,15 @@ table{
     font-size:;
 }
 #one{
-    height:205px;
-    width:300px;  
+   height:160px; 
+   width:330px;
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:900px;
     }
 #three{
     width:460px; 
     height:255px;    
-    }
-video{
-    width:450px; 
-    height:250px; 
     }
 #six{
      width:70px;   
@@ -40,7 +35,7 @@ video{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     font-family:arial;
 }
@@ -55,20 +50,15 @@ table{
     font-size:;
 }
 #one{
-    height:255px;
-    width:400px;  
+    height:215px;
+    width:380px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:900px;
     }
 #three{
     width:460px; 
     height:255px;    
-    }
-video{
-    width:400px; 
-    height:260px; 
     }
 #six{
      width:75px;   
@@ -78,7 +68,7 @@ video{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
 body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -94,20 +84,15 @@ table{
     font-size:;
 }
 #one{
-    height:205px;
-    width:300px;  
+    height:195px;
+    width:350px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:900px;
     }
 #three{
     width:500px; 
     height:275px;    
-    }
-video{
-    width:450px; 
-    height:280px; 
     }
 #six{
      width:70px;   
@@ -117,7 +102,7 @@ video{
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -133,20 +118,15 @@ table{
     font-size:;
 }
 #one{
-    height:205px;
-    width:330px;  
+    height:175px;
+    width:300px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:900px;
     }
 #three{
     width:500px; 
     height:280px;    
-    }
-video{
-    width:450px; 
-    height:290px; 
     }
 #six{
      width:70px;   
@@ -156,7 +136,7 @@ video{
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
 body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -169,15 +149,14 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:;
+    font-size:18px;
 }
 #one{
     height:205px;
     width:340px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:1000px;
     }
 #three{
     width:460px; 
@@ -195,7 +174,7 @@ video{
 @media screen and (min-device-width:1026px) and (max-device-width:1299px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -214,27 +193,22 @@ table{
      width:80px;   
     }
 #one{
-    height:285px;
-    width:430px;  
+    height:225px;
+    width:360px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:1200px;
     }
 #three{
     width:560px; 
     height:315px;    
-    }
-video{
-    width:550px; 
-    height:320px; 
     }
     }
 
 @media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
 body{
-    background-image:url(100m_run.jpeg);
+    background-image:url(BluryFire.png);
     background-size:100%;
     font-family:arial;
 }
@@ -246,18 +220,17 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:20px;
+    font-size:22px;
 }
 #six{
      width:85px;   
     }
 #one{
-    height:285px;
+    height:255px;
     width:430px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:1900px;
     }
 #three{
     width:560px; 
@@ -272,45 +245,40 @@ video{
 @media screen and (min-device-width:1451px) and (max-device-width:1600px) {
     table{width:90%}
 body{
-    background-image:url(100m_run.jpeg);
+    background-image:url(BluryFire.png);
     background-size:100%;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:60px;
+    font-size:55px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:22px;
+    font-size:25px;
     }
 #six{
      width:90px;   
     }
 #one{
-    height:285px;
-    width:430px;  
+    height:275px;
+    width:500px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:1500px;
     }
 #three{
-    width:640px; 
+    width:940px; 
     height:355px;    
-    }
-video{
-    width:600px; 
-    height:350px; 
     }
 }
 
 @media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
-    background-image:url(100m_run.jpeg);
+    background-image:url(BluryFire.png);
     background-size:100%;
     font-family:arial;
 }
@@ -328,11 +296,10 @@ table{
      width:100px;   
     }
 #one{
-    height:285px;
-    width:430px;  
+    height:299px;
+    width:510px;  
     }
-#two{
-    height:300px; 
+#two{ 
     width:1600px;
     }
 #three{
@@ -348,66 +315,60 @@ video{
 @media screen and (min-device-width:1801px) and (max-device-width:2000px) {
     table{width:90%}
 body{
-    background-image:url(100m_run.jpeg);
+    background-image:url(BluryFire.png);
     background-size:100%;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:60px;
+    font-size:75px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:30px;
+    font-size:33px;
 }
 #six{
      width:120px;   
     }
 #one{
-    height:385px;
-    width:580px;  
+    height:335px;
+    width:600px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:1900px;
     }
 #three{
     width:680px; 
     height:385px;    
-    }
-video{
-    width:650px; 
-    height:420px; 
     }
 }
 
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:100px;
+    font-size:90px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:30px;
+    font-size:40px;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:455px;
+    width:750px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:2400px;
     }
 #three{
     width:560px; 
@@ -425,7 +386,7 @@ video{
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -438,15 +399,14 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:30px;
+    font-size:50px;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:525px;
+    width:890px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:2900px;
     }
 #three{
     width:560px; 
@@ -457,53 +417,48 @@ video{
     height:320px; 
     }
 #six{
-     width:100px;   
+     width:150px;   
     }
     }
 
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat: repeat; 
     font-family:arial;
 }
 h1{
     text-align:center;
-    font-size:100px;
+    font-size:130px;
     }
 table{
     margin-left:auto;
     margin-right:auto;
     width:0;
-    font-size:;
+    font-size:60px;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:605px;
+    width:930px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:3400px;
     }
 #three{
     width:560px; 
     height:315px;    
     }
-video{
-    width:550px; 
-    height:320px; 
-    }
 #six{
-     width:100px;   
+     width:140px;   
     }
     }
 
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
     table{width:90%}
     body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat: repeat;
     font-family:arial;
@@ -516,23 +471,18 @@ table{
     margin-left:auto;
     margin-right:auto;
     width:0px;
-    font-size:50px;
+    font-size:70px;
 }
 #one{
-    height:285px;
-    width:430px;  
+    height:685px;
+    width:1030px;  
     }
 #two{
-    height:300px; 
-    width:500px;
+    width:3900px;
     }
 #three{
     width:560px; 
     height:315px;    
-    }
-video{
-    width:550px; 
-    height:320px; 
     }
 #six{
      width:100px;   
@@ -542,7 +492,7 @@ video{
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat:repeat;
     font-family:arial;
@@ -580,7 +530,7 @@ video{
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
 body{
-    background:url(100m_run.jpeg);
+    background:url(BluryFire.png);
     background-size:100%;
     background-repeat: repeat;
     font-family:arial;
@@ -606,10 +556,6 @@ table{
 #three{
     width:560px; 
     height:315px;    
-    }
-video{
-    width:550px; 
-    height:320px; 
     }
 #six{
      width:300px;   

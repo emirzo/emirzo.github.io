@@ -1,0 +1,549 @@
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png); 
+        background-repeat:repeat;
+        text-align:center;
+        }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:47px;  
+    }
+    h3{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:400px;
+        height:;
+        font-size:15px;
+    }
+    #two{
+        width:1000px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+        text-align:center;
+    }
+   table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:28px;  
+    }
+    h2{
+        font-size:21px;
+    }
+    p{
+        font-size:7px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90%}
+   body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:37px;  
+    }
+    h2{
+        font-size:23px;
+    }
+    p{
+        font-size:8px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:60px;
+    }
+}
+
+@media screen and (min-device-width:601px) and (max-device-width:660px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:40px;  
+    }
+    h2{
+        font-size:25px;
+    }
+    h3{
+        font-size:19px;
+    }
+    p{
+        font-size:10px;
+     }
+    #one{
+        width:1000px;
+        font-size:17px;
+    }
+    #two{
+        width:500px;
+        height:690px;
+        font-size:17px;
+    }
+    #three{
+        width:500px;
+        height:690px;
+    }
+    #six{
+        width:60px;
+    }
+    }
+
+@media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:40px;  
+    }
+    h2{
+        font-size:32px;
+    }
+    p{
+        font-size:13px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+        height:690px;
+    }
+    #three{
+        width:500px;
+        height:690px;
+    }
+    #six{
+        width:55px;
+    }
+    }
+
+@media screen and (min-device-width:1026px) and (max-device-width:1299px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:47px;  
+    }
+    h2{
+        font-size:37px;
+    }
+    h3{
+        font-size:21px;
+    }
+    p{
+        font-size:15px;
+     }
+    #one{
+        width:1200px;
+        font-size:18px;
+    }
+    #two{
+        width:550px;
+        height:690px;
+    }
+    #three{
+        width:500px;
+        height:690px;
+    }
+    #six{
+        width:60px;
+    }
+    }
+
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
+    table{width:90%}
+     body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png); 
+        background-repeat:repeat;
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:60px;  
+    }
+    h2{
+        font-size:45px;
+    }
+    p{
+        font-size:20px;
+     }
+    #one{
+        width:1350px;
+        font-size:20px;
+    }
+    #two{
+        width:610px;
+         height:790px;
+    }
+    #three{
+        width:600px;
+        height:790px;
+    }
+    #six{
+        width:70px;
+    }
+}
+
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:67px;  
+    }
+    h2{
+        font-size:50px;
+    }
+    h3{
+
+    }
+    p{
+        font-size:20px;
+     }
+    #one{
+        width:1600px;
+        font-size:26px;
+    }
+    #two{
+        width:800px;
+        height:1190px;
+    }
+    #three{
+        width:700px;
+        height:1190px;
+    }
+    #six{
+        width:80px;
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:77px;  
+    }
+    h2{
+        font-size:50px;
+    }
+    h3{
+        font-size:30px;
+    }
+    p{
+        font-size:24px;
+     }
+    #one{
+        width:1700px;
+        font-size:30px;
+    }
+    #two{
+        width:900px;
+        height:1150px;
+    }
+    #three{
+        width:750px;
+        height:1150px;
+    }
+    #six{
+        width:100px;
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2500px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+    table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
+
+@media screen and (min-device-width:5001px) and (max-device-width:5500px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png) top repeat fixed;  
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h1{
+        font-size:27px;  
+    }
+    h2{
+        font-size:20px;
+    }
+    p{
+        font-size:6px;
+     }
+    #one{
+        width:1000px;
+    }
+    #two{
+        width:500px;
+    }
+    #six{
+        width:50px;
+    }
+}
