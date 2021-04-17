@@ -41,7 +41,7 @@ table{
     body{
     background-image:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -54,16 +54,16 @@ table{
     width:0;
 }
 #one{
-    width:130px;
+    width:150px;
 }
 #two{
     width:180px;
 }
 #three{
-    width:360px;
+    width:300px;
     }
 #four{
-    width:100px;   
+    width:75px;   
     }
 #five{
     width:1000px; 
@@ -78,7 +78,7 @@ table{
 body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -116,7 +116,7 @@ table{
     body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -154,7 +154,7 @@ table{
 body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -191,7 +191,7 @@ table{
     table{width:90%}
     body{
     background:url(redsquare.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -228,7 +228,7 @@ table{
     table{width:90%}
 body{
     background-image:url(redsquare.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -374,7 +374,7 @@ table{
     body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -409,7 +409,7 @@ table{
     body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -442,7 +442,7 @@ table{
     table{width:90%}
     body{
     background:url(redsquare.jpg)
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:100%;
     font-family:arial;
 }
@@ -477,7 +477,7 @@ table{
     body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -505,7 +505,7 @@ table{
 body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -534,7 +534,7 @@ table{
 body{
     background:url(redsquare.jpg);
     background-size:100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -556,4 +556,13 @@ table{
 #three{
     width:1400px;
 }
+#four{
+    width:300px;   
+    }
+#five{
+    width:4400px; 
+    }
+#six{
+     width:300px;   
+    }
     }

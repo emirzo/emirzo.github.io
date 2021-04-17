@@ -77,8 +77,9 @@ table{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
 body{
-    background:url(germanyfon.png)repeat top;
+    background:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -265,6 +266,7 @@ table{
 body{
     background-image:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -302,6 +304,7 @@ table{
 body{
     background-image:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -339,6 +342,7 @@ table{
 body{
     background-image:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -374,8 +378,9 @@ table{
 @media screen and (min-device-width:2001px) and (max-device-width:2500px) {
     table{width:90%}
     body{
-    background:url(germanyfon.png) repeat top;
+    background:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -443,8 +448,9 @@ table{
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
     body{
-    background:url(germanyfon.png) repeat top;
+    background:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -471,8 +477,9 @@ table{
 @media screen and (min-device-width:3501px) and (max-device-width:4000px) {
     table{width:90%}
     body{
-    background:url(germanyfon.png)repeat top;
+    background:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -505,8 +512,9 @@ table{
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(germanyfon.png)repeat top;
+    background:url(germanyfon.png);
     background-size:100%;
+    background-repeat: repeat;
     font-family:arial;
 }
 h1{
@@ -557,4 +565,13 @@ table{
 #three{
     width:1450px;
 }
+#four{
+    width:300px;   
+    }
+#five{
+    width:4400px; 
+    }
+#six{
+     width:300px;   
+    }
     }
