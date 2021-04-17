@@ -403,10 +403,13 @@ table{
     width:850px;
 }
 #four{
-    width:100px;   
+    width:150px;   
     }
 #five{
-    width:1000px; 
+    width:2000px; 
+    }
+#six{
+     width:150px;   
     }
     }
 

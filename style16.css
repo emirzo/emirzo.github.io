@@ -405,6 +405,15 @@ table{
 #three{
     width:820px;
 }
+#four{
+    width:150px;   
+    }
+#five{
+    width:2000px; 
+    }
+#six{
+     width:150px;   
+    }
     }
 
 @media screen and (min-device-width:2501px) and (max-device-width:3000px) {
