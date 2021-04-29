@@ -3,7 +3,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat: repeat;
         text-align:center;
         }
     h2{
@@ -41,6 +42,9 @@
         margin-right:190px;
         width:700px;
     }
+    #nine{
+        width:0px;
+    }
     button{
         width:auto;
         height:auto;
@@ -64,7 +68,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
         text-align:center;
     }
     h2{
@@ -76,7 +81,7 @@
         font-size:20px;
     }
     p{
-        font-size:10px;
+        font-size:12px;
     }
     #one{
         color:yellow;
@@ -88,13 +93,14 @@
     }
     #three{
         width:330px;
-        height:240px;
+        height:220px;
     }
     #four{
         width:890px;
     }
     #five{
-        width:1000px;
+        width:900px;
+        font-size:17px;
     }
     #six{
         width:20px;
@@ -102,6 +108,9 @@
     #seven{
         font-size:10px;
         margin-right:95px;
+    }
+    #nine{
+        width:0px;
     }
     button{
         width:80px;
@@ -127,7 +136,8 @@
    body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat: repeat;
     }
     h2{
         font-size:27px;
@@ -168,7 +178,10 @@
     }
     #eight{
         width:900px;
-        font-size: 20px;
+        font-size:20px;
+    }
+    #nine{
+        width:0px;
     }
     button{
         width:80px;
@@ -194,7 +207,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -258,7 +272,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -325,7 +340,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -384,19 +400,20 @@
     }
     }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png); 
+        background-repeat: repeat;
     }
-     table{
+    table{
         margin-left:auto;
         margin-right:auto;
     }
     h2{
-      font-size:50px;  
+      font-size:45px;  
     }
     #one{
         color:yellow;
@@ -404,32 +421,32 @@
         font-size:60px;
     }
     #two{
-        width:1600px;
+        width:1300px;
         font-size:30px;
     }
     #three{
-        width:500px;
-        height:300px;
+        width:480px;
+        height:290px;
     }
     #four{
-        width:1290px;
-        font-size:30px;
+        width:1190px;
+        font-size:26px;
     }
     #five{
-        width:1570px;
-        font-size:30px;
+        width:1200px;
+        font-size:25px;
     }
     #six{
         width:35px;
         font-size:;
     }
     #seven{
-        margin-right:410px;
-        width:1500px;
+        margin-right:250px;
+        width:900px;
     }
     #eight{
-        width:1400px;
-        font-size:30px;
+        width:1200px;
+        font-size:26px;
     }
     button{
         width:200px;
@@ -450,12 +467,153 @@
     }
 }
 
-@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
     table{width:90%}
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);  
+        background-repeat: repeat;
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h2{
+      font-size:42px;  
+    }
+    #one{
+        color:yellow;
+        font-family:Verdana;
+        font-size:60px;
+    }
+    #two{
+        width:1600px;
+        font-size:28px;
+    }
+    #three{
+        width:400px;
+        height:250px;
+    }
+    #four{
+        width:1290px;
+        font-size:28px;
+    }
+    #five{
+        width:1370px;
+        font-size:28px;
+    }
+    #six{
+        width:35px;
+        font-size:;
+    }
+    #seven{
+        margin-right:410px;
+        width:1100px;
+    }
+    #eight{
+        width:1400px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
+    }
+    button{
+        width:200px;
+        height:auto;
+        font-size:27px;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white
+    }
+    a:active{
+        text-decoration:none;
+        color:gainsboro;
+    }
+    a:visited{
+        text-decoration:none;
+        color:blue;
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png);
+        background-repeat: repeat;
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    h2{
+      font-size:48px;  
+    }
+    #one{
+        color:yellow;
+        font-family:Verdana;
+        font-size:60px;
+    }
+    #two{
+        width:1600px;
+        font-size:26px;
+    }
+    #three{
+        width:500px;
+        height:320px;
+    }
+    #four{
+        width:1290px;
+        font-size:30px;
+    }
+    #five{
+        width:1570px;
+        font-size:30px;
+    }
+    #six{
+        width:35px;
+        font-size:;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
+    }
+    button{
+        width:200px;
+        height:auto;
+        font-size:27px;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white
+    }
+    a:active{
+        text-decoration:none;
+        color:gainsboro;
+    }
+    a:visited{
+        text-decoration:none;
+        color:blue;
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -497,6 +655,9 @@
         width:1500px;
         font-size:30px;
     }
+    #nine{
+        width:0px;
+    }
     button{
         width:200px;
         height:auto;
@@ -521,7 +682,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -548,6 +710,17 @@
         height:10px;
         width:20px;
     }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
+    }
     a:link{
         text-decoration:underline;
         color:white
@@ -567,7 +740,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -593,6 +767,17 @@
     #six{
         width:20px;
     }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
+    }
     a:link{
         text-decoration:underline;
         color:white
@@ -612,7 +797,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -637,6 +823,17 @@
     }
     #six{
         width:20px;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
     }
     a:link{
         text-decoration:underline;
@@ -657,7 +854,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -682,6 +880,17 @@
     }
     #six{
         width:20px;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
     }
     a:link{
         text-decoration:underline;
@@ -702,7 +911,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -727,6 +937,17 @@
     }
     #six{
         width:20px;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
     }
     a:link{
         text-decoration:underline;
@@ -747,7 +968,8 @@
     body{
         font-family:arial;
         color:white;
-        background: url(MainBlur.png) top repeat fixed;  
+        background: url(MainBlur.png);
+        background-repeat: repeat;
     }
      table{
         margin-left:auto;
@@ -772,6 +994,74 @@
     }
     #six{
         width:20px;
+    }
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
+    }
+    a:link{
+        text-decoration:underline;
+        color:white
+    }
+    a:active{
+        text-decoration:none;
+        color:gainsboro;
+    }
+    a:visited{
+        text-decoration:none;
+        color:blue;
+    }
+}
+
+@media screen and (min-device-width:5501px) and (max-device-width:6000px) {
+    table{width:90%}
+    body{
+        font-family:arial;
+        color:white;
+        background: url(MainBlur.png); 
+        background-repeat: repeat;
+    }
+     table{
+        margin-left:auto;
+        margin-right:auto;
+    }
+    #one{
+        color:yellow;
+        font-family:Verdana;
+    }
+    #two{
+        width:1000px;
+    }
+    #three{
+        width:330px;
+        height:200px;
+    }
+    #four{
+        width:690px;
+    }
+    #five{
+        width:1270px;
+    }
+    #six{
+        width:20px;
+    } 
+    #seven{
+        margin-right:410px;
+        width:1500px;
+    }
+    #eight{
+        width:1500px;
+        font-size:30px;
+    }
+    #nine{
+        width:0px;
     }
     a:link{
         text-decoration:underline;
