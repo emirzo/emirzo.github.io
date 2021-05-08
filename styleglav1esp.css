@@ -15,7 +15,7 @@
         margin-right:auto;
     }
     p{
-        font-size:12px;
+        font-size:10px;
     }
     #one{
         color:yellow;
@@ -23,20 +23,22 @@
         font-size:40px;
     }
     #two{
-        width:1000px;
+        width:000px;
     }
     #three{
         width:300px;
         height:190px;
     }
     #four{
-        width:890px;
+        width:800px;
+        font-size:15px;
     }
     #five{
-        width:1000px;
+        width:800px;
+        font-size:13px;
     }
     #six{
-        width:20px;
+        width:18px;
     }
     #seven{
         margin-right:190px;
@@ -73,8 +75,7 @@
         text-align:center;
     }
     h2{
-        font-size:26px;
-        text-align:center;
+        font-size:30px;
     }
     table{
         margin-left:auto;
@@ -82,7 +83,7 @@
         font-size:20px;
     }
     p{
-        font-size:15px;
+        font-size:12px;
     }
     #one{
         color:yellow;
@@ -93,18 +94,18 @@
         width:1000px;
     }
     #three{
-        width:330px;
-        height:220px;
+        width:300px;
+        height:200px;
     }
     #four{
         width:890px;
     }
     #five{
-        width:800px;
-        font-size:16px;
+        width:900px;
+        font-size:17px;
     }
     #six{
-        width:18px;
+        width:20px;
     }
     #seven{
         font-size:10px;
@@ -114,7 +115,7 @@
         width:0px;
     }
     button{
-        width:110px;
+        width:100px;
         height:27px;
         font-size:16px;
     }
@@ -144,7 +145,7 @@
         font-size:27px;
     }
     p{
-        font-size:15px;
+        font-size:13px;
     }
      table{
         margin-left:auto;
@@ -164,11 +165,11 @@
     }
     #four{
         width:800px;
-        font-size:20px;
+        font-size:15px;
     }
     #five{
         width:800px;
-        font-size:19px;
+        font-size:15px;
     }
     #six{
         width:25px;
@@ -178,14 +179,14 @@
         margin-right:130px;
     }
     #eight{
-        width:900px;
-        font-size:20px;
+        width:800px;
+        font-size:15px;
     }
     #nine{
-        width:0px;
+        width:15px;
     }
     button{
-        width:120px;
+        width:100px;
         height:27px;
         font-size:16px;
     }
@@ -243,14 +244,17 @@
     }
     #seven{
         font-size:10px;
-        margin-right:134px;
+        margin-right:140px;
     }
     #eight{
-        width:850px;
+        width:800px;
+        font-size:18px;
+    }
+    #nine{
         font-size:18px;
     }
     button{
-        width:120px;
+        width:100px;
         height:27px;
         font-size:16px;
     }
@@ -281,10 +285,10 @@
         margin-right:auto;
     }
     h2{
-        font-size:28px;
+        font-size:32px;
     }
     p{
-        font-size:16px;
+        font-size:15px;
     }
     #one{
         color:yellow;
@@ -295,16 +299,16 @@
         width:1000px;
     }
     #three{
-        width:320px;
-        height:197px;
+        width:330px;
+        height:200px;
     }
     #four{
         width:690px;
-        font-size:17px;
+        font-size:20px;
     }
     #five{
         width:900px;
-        font-size:17px;
+        font-size:20px;
     }
     #six{
         width:25px;
@@ -315,10 +319,10 @@
     }
     #eight{
         width:850px;
-        font-size:17px;
+        font-size:23px;
     }
     button{
-        width:110px;
+        width:100px;
         height:27px;
         font-size:16px;
     }
@@ -357,22 +361,22 @@
         font-size:40px;
     }
     #two{
-        width:1000px;
+        width:950px;
     }
     #three{
-        width:300px;
-        height:200px;
+        width:290px;
+        height:180px;
     }
     #four{
         width:820px;
-        font-size:20px;
+        font-size:15px;
     }
     #five{
-        width:1070px;
-        font-size:20px;
+        width:870px;
+        font-size:17px;
     }
     #six{
-        width:25px;
+        width:20px;
     }
     #seven{
         font-size:10px;
@@ -380,12 +384,12 @@
     }
     #eight{
         width:850px;
-        font-size:20px;
+        font-size:17px;
     }
     button{
-        width:150px;
+        width:120px;
         height:30px;
-        font-size:22px;
+        font-size:20px;
     }
     a:link{
         text-decoration:underline;
