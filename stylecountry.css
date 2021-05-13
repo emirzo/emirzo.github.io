@@ -61,7 +61,7 @@ table{
      margin-right:70px;   
     }
 button{
-    width:80px; 
+    width:90px; 
     }
 a:link{
     text-decoration:underline;
@@ -207,7 +207,8 @@ table{
     margin-right:80px;   
     }
 button{
-    width:100px; 
+    width:130px; 
+    height:40px;
     font-size:20px;
     }
 a:link{
@@ -222,7 +223,7 @@ a:visited{
     }
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1600px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1450px) {
     table{width:90%}
     body{
     background:url(international.jpg) top fixed;
@@ -246,8 +247,15 @@ table{
     margin-right:150px;
     }
 button{
-    width:120px;
-    font-size:23px;
+    width:150px;
+    height:50px;
+    font-size:24px;
+    }
+.child{
+    background-color:grey;
+    height:100%;
+    width:100%;
+    transition: transform;
     }
 a:link{
     text-decoration:underline;
@@ -261,7 +269,53 @@ a:visited{
     }
 }
 
-@media screen and (min-device-width:1601px) and (max-device-width:2000px) {
+@media screen and (min-device-width:1451px) and (max-device-width:1600px) {
+    table{width:90%}
+    body{
+    background:url(international.jpg) top fixed;
+    background-size:100%;
+    font-family:arial;
+    color:white
+}
+h1{
+    text-align:center;
+    font-size:60px;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    font-size:30px;
+}
+#one{
+    width:80px;
+    }
+#two{
+    margin-right:150px;
+    }
+button{
+    width:150px;
+    height:50px;
+    font-size:24px;
+    }
+.child{
+    background-color:grey;
+    height:100%;
+    width:100%;
+    transition: transform;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    }
+a:visited{
+    text-decoration:underline;
+    }
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
     body{
     background:url(international.jpg) top fixed;
@@ -285,7 +339,46 @@ table{
     margin-right:150px;
     }
 button{
-    width:130px; 
+    width:160px; 
+    font-size:30px;
+    }
+a:link{
+    text-decoration:underline;
+    color:white;
+    }
+a:active{
+    text-decoration:none;
+    }
+a:visited{
+    text-decoration:underline;
+    }
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+    body{
+    background:url(international.jpg) top fixed;
+    background-size:100%;
+    font-family:arial;
+    color:white
+}
+h1{
+    text-align:center;
+    font-size:70px;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+    font-size:45px;
+}
+#one{
+    width:120px;
+    }
+#two{
+    margin-right:150px;
+    }
+button{
+    width:190px; 
     font-size:30px;
     }
 a:link{
@@ -309,19 +402,23 @@ a:visited{
     color:white
 }
 h1{
-    font-size:120px;
     text-align:center;
+    font-size:70px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:1000px;
-    width:1900px;
-    font-size:60px;
+    font-size:45px;
 }
-img{
-    width:130px;
-    height:80px;
+#one{
+    width:100px;
+    }
+#two{
+    margin-right:450px;
+    }
+button{
+    width:190px; 
+    font-size:30px;
     }
 a:link{
     text-decoration:underline;
@@ -330,7 +427,7 @@ a:link{
 a:active{
     text-decoration:none;
     }
- a:visited{
+a:visited{
     text-decoration:underline;
     }
 }
@@ -344,19 +441,23 @@ a:active{
     color:white
 }
 h1{
-    font-size:120px;
     text-align:center;
+    font-size:90px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:1000px;
-    width:1900px;
-    font-size:60px;
+    font-size:65px;
 }
-img{
-    width:130px;
-    height:80px;
+#one{
+    width:140px;
+    }
+#two{
+    margin-right:700px;
+    }
+button{
+    width:250px; 
+    font-size:40px;
     }
 a:link{
     text-decoration:underline;
@@ -365,7 +466,7 @@ a:link{
 a:active{
     text-decoration:none;
     }
- a:visited{
+a:visited{
     text-decoration:underline;
     }
 }
@@ -379,17 +480,23 @@ a:active{
     color:white
 }
 h1{
-    font-size:140px;
     text-align:center;
+    font-size:120px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:700px;
-    font-size:100px;
+    font-size:75px;
 }
-img{
-    width:180px;
+#one{
+    width:150px;
+    }
+#two{
+    margin-right:450px;
+    }
+button{
+    width:300px; 
+    font-size:50px;
     }
 a:link{
     text-decoration:underline;
@@ -412,17 +519,23 @@ a:visited{
     color:white
 }
 h1{
-    font-size:140px;
     text-align:center;
+    font-size:130px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:700px;
-    font-size:100px;
+    font-size:65px;
 }
-img{
-    width:180px;
+#one{
+    width:210px;
+    }
+#two{
+    margin-right:850px;
+    }
+button{
+    width:400px; 
+    font-size:65px;
     }
 a:link{
     text-decoration:underline;
@@ -445,17 +558,26 @@ a:visited{
     color:white
 }
 h1{
-    font-size:200px;
     text-align:center;
+    font-size:130px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:700px;
-    font-size:100px;
+    font-size:65px;
 }
-img{
-    width:250px;
+#height{
+        height:1400px;
+    }
+#one{
+    width:200px;
+    }
+#two{
+    margin-right:450px;
+    }
+button{
+    width:390px; 
+    font-size:60px;
     }
 a:link{
     text-decoration:underline;
@@ -478,17 +600,26 @@ a:visited{
     color:white
 }
 h1{
-    font-size:200px;
     text-align:center;
+    font-size:140px;
 }
 table{
     margin-left:auto;
     margin-right:auto;
-    height:700px;
-    font-size:100px;
+    font-size:65px;
 }
-img{
+#height{
+    height:1400px;
+    }
+#one{
     width:250px;
+    }
+#two{
+    margin-right:650px;
+    }
+button{
+    width:490px; 
+    font-size:70px;
     }
 a:link{
     text-decoration:underline;
