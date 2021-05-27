@@ -1,10 +1,15 @@
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90%}
 body{
-    background:url(samsunglogo.png) no-repeat center
-}
-body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
     font-family:arial;
     text-align:center;
     font-size:27px;
+}
+img{
+    margin-right:900px;
 }
 .center{
     margin-left:auto;
@@ -22,6 +27,742 @@ a:visited{
 table{
     font-size:35px;
 }
+}
+
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:900px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+    
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:900px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:601px) and (max-device-width:660px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:900px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:661px) and (max-device-width:1025px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:900px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:1026px) and (max-device-width:1150px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:1080px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:1151px) and (max-device-width:1299px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:1230px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:1300px) and (max-device-width:1400px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+     font-size:60px;   
+    }
+img{
+    margin-right:1300px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:40px;
+}
+}
+
+@media screen and (min-device-width:1401px) and (max-device-width:1500px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+      font-size:60px;  
+    }
+img{
+    margin-right:1430px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:1501px) and (max-device-width:1600px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+     font-size:75px;   
+    }
+img{
+    margin-right:1500px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:45px;
+}
+}
+
+@media screen and (min-device-width:1601px) and (max-device-width:1800px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+    font-size:75px;   
+    }
+img{
+    margin-right:1620px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:45px;
+}
+}
+
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+    h1{
+        font-size:80px;
+    }
+img{
+    margin-right:1800px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:2001px) and (max-device-width:2200px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
 img{
     margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:2201px) and (max-device-width:2500px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+    h1{
+      font-size:95px;
+    }
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:55px;
+}
+}
+
+@media screen and (min-device-width:2501px) and (max-device-width:2700px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+    h1{
+        font-size:95px;
+    }
+img{
+    margin-right:2500px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:65px;
+}
+}
+
+@media screen and (min-device-width:2701px) and (max-device-width:3000px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+     font-size:100px;   
+    }
+img{
+    width:100px;
+    margin-right:2940px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:75px;
+}
+}
+
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:3501px) and (max-device-width:3700px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:3701px) and (max-device-width:4000px) {
+    table{width:90%}
+ body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:5001px) and (max-device-width:5500px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:5501px) and (max-device-width:5700px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
+}
+
+@media screen and (min-device-width:5701px) and (max-device-width:6000px) {
+    table{width:90%}
+body{
+    background:url(samsunglogo.png);
+    background-repeat:no-repeat;
+    background-size:100%;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+img{
+    margin-right:2000px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+table{
+    font-size:35px;
+}
 }
