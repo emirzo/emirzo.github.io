@@ -15,7 +15,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -49,7 +49,7 @@ table{
     font-size:40px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -83,7 +83,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -117,8 +117,8 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
-}
+    margin-right:;
+    }
 .center{
     margin-left:auto;
     margin-right:auto;
@@ -151,7 +151,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -185,7 +185,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -219,7 +219,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -253,7 +253,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -287,7 +287,7 @@ table{
     font-size:35px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -321,7 +321,7 @@ table{
     font-size:40px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -355,7 +355,7 @@ table{
     font-size:45px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -389,7 +389,7 @@ table{
     font-size:45px;
 }
 img{
-    margin-right:2000px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
@@ -526,7 +526,8 @@ table{
     font-size:67px;
 }
 img{
-    margin-right:2000px;
+    width:100px;
+    margin-right:000px;
 }
 .center{
     margin-left:auto;
