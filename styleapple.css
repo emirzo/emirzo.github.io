@@ -2,11 +2,15 @@
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:60px;   
+    }
 table{
     font-size:35px;
 }
@@ -32,13 +36,17 @@ a:visited{
     table{width:90%}
    body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:65px;   
+    }
 table{
-    font-size:35px;
+    font-size:40px;
 }
 img{
     margin-right:2000px;
@@ -62,11 +70,15 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
 table{
     font-size:35px;
 }
@@ -92,11 +104,15 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
 table{
     font-size:35px;
 }
@@ -122,11 +138,15 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
 table{
     font-size:35px;
 }
@@ -152,11 +172,15 @@ a:visited{
     table{width:90%}
     body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
 table{
     font-size:35px;
 }
@@ -182,11 +206,15 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
 table{
     font-size:35px;
 }
@@ -212,11 +240,15 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:80px;   
+    }
 table{
     font-size:35px;
 }
@@ -242,11 +274,15 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:80px;   
+    }
 table{
     font-size:35px;
 }
@@ -272,13 +308,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:85px;   
+    }
 table{
-    font-size:35px;
+    font-size:40px;
 }
 img{
     margin-right:2000px;
@@ -302,13 +342,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:90px;   
+    }
 table{
-    font-size:35px;
+    font-size:45px;
 }
 img{
     margin-right:2000px;
@@ -332,13 +376,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:95px;   
+    }
 table{
-    font-size:35px;
+    font-size:45px;
 }
 img{
     margin-right:2000px;
@@ -362,15 +410,20 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:110px;   
+    }
 table{
-    font-size:35px;
+    font-size:50px;
 }
 img{
+    width:80px;
     margin-right:2000px;
 }
 .center{
@@ -392,13 +445,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:110px;   
+    }
 table{
-    font-size:35px;
+    font-size:65px;
 }
 img{
     margin-right:2000px;
@@ -422,13 +479,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:130px;   
+    }
 table{
-    font-size:35px;
+    font-size:65px;
 }
 img{
     margin-right:2000px;
@@ -452,13 +513,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:120px;   
+    }
 table{
-    font-size:35px;
+    font-size:67px;
 }
 img{
     margin-right:2000px;
@@ -482,13 +547,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:150px;   
+    }
 table{
-    font-size:35px;
+    font-size:75px;
 }
 img{
     margin-right:2000px;
@@ -512,13 +581,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:140px;   
+    }
 table{
-    font-size:35px;
+    font-size:95px;
 }
 img{
     margin-right:2000px;
@@ -542,13 +615,17 @@ a:visited{
     table{width:90%}
  body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:150px;   
+    }
 table{
-    font-size:35px;
+    font-size:95px;
 }
 img{
     margin-right:2000px;
@@ -572,13 +649,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:180px;   
+    }
 table{
-    font-size:35px;
+    font-size:105px;
 }
 img{
     margin-right:2000px;
@@ -602,13 +683,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:200px;   
+    }
 table{
-    font-size:35px;
+    font-size:110px;
 }
 img{
     margin-right:2000px;
@@ -632,13 +717,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:230px;   
+    }
 table{
-    font-size:35px;
+    font-size:140px;
 }
 img{
     margin-right:2000px;
@@ -662,13 +751,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:250px;   
+    }
 table{
-    font-size:35px;
+    font-size:150px;
 }
 img{
     margin-right:2000px;
@@ -692,13 +785,17 @@ a:visited{
     table{width:90%}
 body{
     background:url(applelogo.png);
+    background-repeat:100%;
     background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:260px;   
+    }
 table{
-    font-size:35px;
+    font-size:160px;
 }
 img{
     margin-right:2000px;
