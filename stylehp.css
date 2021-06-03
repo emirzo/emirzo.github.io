@@ -2,14 +2,22 @@
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:50px;   
+    }
+table{
+    height:400px;
+    font-size:35px;
+}
 img{
-    margin-right:900px;
+    width:60px;
+    margin-right:880px;
 }
 .center{
     margin-left:auto;
@@ -23,24 +31,29 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
-body{
+   body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:55px;   
+    }
+table{
+    height:440px;
+    font-size:40px;
+}
 img{
-    margin-right:900px;
+    width:60px;
+    margin-right:910px;
 }
 .center{
     margin-left:auto;
@@ -54,9 +67,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
     
@@ -64,14 +74,22 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:55px;   
+    }
+table{
+    height:430px;
+    font-size:35px;
+}
 img{
-    margin-right:900px;
+    width:55px;
+    margin-right:918px;
 }
 .center{
     margin-left:auto;
@@ -85,9 +103,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -95,15 +110,23 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
-img{
-    margin-right:900px;
+h1{
+     font-size:50px;   
+    }
+table{
+    height:420px;
+    font-size:35px;
 }
+img{
+    width:42px;
+    margin-right:;
+    }
 .center{
     margin-left:auto;
     margin-right:auto;
@@ -116,9 +139,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -126,14 +146,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:52px;   
+    }
+table{
+    height:360px;
+    font-size:29px;
+}
 img{
-    margin-right:900px;
+    width:45px;
+    margin-right:935px;
 }
 .center{
     margin-left:auto;
@@ -148,22 +176,63 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-table{
-    font-size:35px;
-}
 }
 
 @media screen and (min-device-width:1026px) and (max-device-width:1150px) {
     table{width:90%}
- body{
+    body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:55px;   
+    }
+table{
+    height:430px;
+    font-size:35px;
+}
 img{
+    width:60px;
+    margin-right:960px;
+}
+.center{
+    margin-left:auto;
+    margin-right:auto;
+}
+a:link{
+    text-decoration:underline;
+}
+a:active{
+    text-decoration:none;
+}
+a:visited{
+    text-decoration:underline;
+}
+}
+
+@media screen and (min-device-width:1151px) and (max-device-width:1299px) {
+    table{width:90%}
+body{
+    background:url(hplogo.png);
+    background-size:100%;
+    background-repeat: no-repeat;
+    font-family:arial;
+    text-align:center;
+    font-size:27px;
+}
+h1{
+     font-size:65px;   
+    }
+table{
+    height:460px;
+    font-size:35px;
+}
+img{
+    width:60px;
     margin-right:1080px;
 }
 .center{
@@ -179,22 +248,27 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-table{
-    font-size:35px;
-}
 }
 
-@media screen and (min-device-width:1151px) and (max-device-width:1299px) {
+@media screen and (min-device-width:1300px) and (max-device-width:1400px) {
     table{width:90%}
-body{
+ body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:70px;   
+    }
+table{
+    height:500px;
+    font-size:35px;
+}
 img{
+    width:60px;
     margin-right:1230px;
 }
 .center{
@@ -210,26 +284,28 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-table{
-    font-size:35px;
-}
 }
 
-@media screen and (min-device-width:1300px) and (max-device-width:1400px) {
+@media screen and (min-device-width:1401px) and (max-device-width:1500px) {
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
 h1{
-     font-size:60px;   
+     font-size:65px;   
     }
+table{
+    height:600px;
+    font-size:35px;
+}
 img{
-    margin-right:1300px;
+    width:65px;
+    margin-right:1330px;
 }
 .center{
     margin-left:auto;
@@ -244,25 +320,27 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-table{
-    font-size:40px;
-}
 }
 
-@media screen and (min-device-width:1401px) and (max-device-width:1500px) {
+@media screen and (min-device-width:1501px) and (max-device-width:1600px) {
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
 h1{
-      font-size:60px;  
+     font-size:75px;   
     }
+table{
+    height:560px;
+    font-size:40px;
+}
 img{
+    width:60px;
     margin-right:1430px;
 }
 .center{
@@ -278,60 +356,28 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-table{
-    font-size:35px;
-}
-}
-
-@media screen and (min-device-width:1501px) and (max-device-width:1600px) {
-    table{width:90%}
-body{
-    background:url(hplogo.png);
-    background-repeat:no-repeat;
-    background-size:100%;
-    font-family:arial;
-    text-align:center;
-    font-size:27px;
-}
-h1{
-     font-size:75px;   
-    }
-img{
-    margin-right:1500px;
-}
-.center{
-    margin-left:auto;
-    margin-right:auto;
-}
-a:link{
-    text-decoration:underline;
-}
-a:active{
-    text-decoration:none;
-}
-a:visited{
-    text-decoration:underline;
-}
-table{
-    font-size:45px;
-}
 }
 
 @media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
 h1{
-    font-size:75px;   
+     font-size:85px;   
     }
+table{
+    height:700px;
+    font-size:45px;
+}
 img{
-    margin-right:1620px;
+    width:70px;
+    margin-right:1520px;
 }
 .center{
     margin-left:auto;
@@ -345,9 +391,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:45px;
 }
 }
 
@@ -355,17 +398,22 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
-    h1{
-        font-size:80px;
+h1{
+     font-size:95px;   
     }
+table{
+    height:800px;
+    font-size:48px;
+}
 img{
-    margin-right:1800px;
+    width:70px;
+    margin-right:1720px;
 }
 .center{
     margin-left:auto;
@@ -379,9 +427,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -389,14 +434,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:110px;   
+    }
+table{
+    height:850px;
+    font-size:50px;
+}
 img{
-    margin-right:2000px;
+    width:80px;
+    margin-right:1915px;
 }
 .center{
     margin-left:auto;
@@ -410,9 +463,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -420,17 +470,22 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
-    h1{
-      font-size:95px;
+h1{
+     font-size:110px;   
     }
+table{
+    height:1050px;
+    font-size:65px;
+}
 img{
-    margin-right:2000px;
+    width:110px;
+    margin-right:2080px;
 }
 .center{
     margin-left:auto;
@@ -444,9 +499,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:55px;
 }
 }
 
@@ -454,17 +506,25 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
-    h1{
-        font-size:95px;
+h1{
+     font-size:130px;   
+    }
+table{
+    height:1100px;;
+    font-size:65px;
+}
+#one{
+      width:100px;  
     }
 img{
-    margin-right:2500px;
+    width:120px;
+    margin-right:2370px;
 }
 .center{
     margin-left:auto;
@@ -478,9 +538,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:65px;
 }
 }
 
@@ -488,18 +545,25 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
 h1{
-     font-size:100px;   
+     font-size:120px;   
+    }
+table{
+    height:1300px;
+    font-size:67px;
+}
+#one{
+      width:100px;  
     }
 img{
     width:100px;
-    margin-right:2940px;
+    margin-right:2590px;
 }
 .center{
     margin-left:auto;
@@ -513,9 +577,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:75px;
 }
 }
 
@@ -523,14 +584,22 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:150px;   
+    }
+table{
+    height:1500px;
+    font-size:80px;
+}
 img{
-    margin-right:2000px;
+    width:125px;
+    margin-right:2860px;
 }
 .center{
     margin-left:auto;
@@ -544,9 +613,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -554,14 +620,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:140px;   
+    }
+table{
+    height:1700px;
+    font-size:90px;
+}
 img{
-    margin-right:2000px;
+    width:120px;
+    margin-right:3370px;
 }
 .center{
     margin-left:auto;
@@ -575,9 +649,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -585,14 +656,22 @@ table{
     table{width:90%}
  body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:155px;   
+    }
+table{
+    height:1800px;
+    font-size:95px;
+}
 img{
-    margin-right:2000px;
+    width:130px;
+    margin-right:3560px;
 }
 .center{
     margin-left:auto;
@@ -606,9 +685,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -616,14 +692,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:180px;   
+    }
+table{
+    height:2050px;
+    font-size:120px;
+}
 img{
-    margin-right:2000px;
+    width:151.6px;
+    margin-right:3840px;
 }
 .center{
     margin-left:auto;
@@ -637,9 +721,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -647,14 +728,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:200px;   
+    }
+table{
+    height:2300px;
+    font-size:130px;
+}
 img{
-    margin-right:2000px;
+    width:180px;
+    margin-right:4300px;
 }
 .center{
     margin-left:auto;
@@ -668,9 +757,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -678,14 +764,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:230px;   
+    }
+table{
+    height:2700px;
+    font-size:140px;
+    }
 img{
-    margin-right:2000px;
+    width:220px;
+    margin-right:4770px;
 }
 .center{
     margin-left:auto;
@@ -699,9 +793,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -709,14 +800,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:250px;   
+    }
+table{
+    height:2500px;
+    font-size:140px;
+}
 img{
-    margin-right:2000px;
+    width:230px;
+    margin-right:5260px;
 }
 .center{
     margin-left:auto;
@@ -730,9 +829,6 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
 
@@ -740,14 +836,22 @@ table{
     table{width:90%}
 body{
     background:url(hplogo.png);
-    background-repeat:no-repeat;
     background-size:100%;
+    background-repeat: no-repeat;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
+h1{
+     font-size:260px;   
+    }
+table{
+    height:3000px;
+    font-size:160px;
+}
 img{
-    margin-right:2000px;
+    width:290px;
+    margin-right:5400px;
 }
 .center{
     margin-left:auto;
@@ -761,8 +865,5 @@ a:active{
 }
 a:visited{
     text-decoration:underline;
-}
-table{
-    font-size:35px;
 }
 }
