@@ -12,6 +12,9 @@ body{
 table{
     font-size:35px;
 }
+img{
+     width:380px;   
+    }
 #one{
     width:56px;
     margin-left:-900px;
@@ -48,12 +51,18 @@ body{
 table{
     font-size:35px;
 }
+img{
+        width:400px;
+    }
 #one{
     width:56px;
     margin-left:-900px;
 }
+img{
+     width:400px;   
+    }
 #two{
-       height:700px; 
+       height:600px; 
     }
 .center{
     margin-left:auto;
@@ -84,6 +93,9 @@ a:visited{
 table{
     font-size:35px;
 }
+img{
+     width:430px;   
+    }
 #one{
     width:56px;
     margin-left:-900px;
@@ -120,6 +132,9 @@ body{
 table{
     font-size:35px;
 }
+img{
+     width:400px;   
+    }
 #one{
     width:56px;
     margin-left:-900px;
@@ -160,14 +175,14 @@ table{
     font-size:30px;
 }
     img{
-        width:350px;
+        width:400px;
     }
 #one{
     width:50px;
     margin-left:-900px;
 }
 #two{
-       height:523px; 
+       height:531px; 
     }
 .center{
     margin-left:auto;
@@ -321,6 +336,9 @@ body{
 table{
     font-size:35px;
 }
+img{
+        width:600px;
+    }
 #one{
     width:60px;
     margin-left:-1350px;
