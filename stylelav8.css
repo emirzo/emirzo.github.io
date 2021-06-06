@@ -1,9 +1,9 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat: no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -20,7 +20,7 @@ img{
     margin-left:-900px;
 }
 #two{
-       height:700px; 
+       height:300px; 
     }
 .center{
     margin-left:auto;
@@ -40,9 +40,9 @@ a:visited{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -62,7 +62,7 @@ img{
      width:400px;   
     }
 #two{
-       height:600px; 
+       height:300px; 
     }
 .center{
     margin-left:auto;
@@ -82,9 +82,9 @@ a:visited{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -101,7 +101,7 @@ img{
     margin-left:-900px;
 }
 #two{
-       height:700px; 
+       height:300px; 
     }
 .center{
     margin-left:auto;
@@ -121,9 +121,9 @@ a:visited{
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -140,7 +140,7 @@ img{
     margin-left:-900px;
 }
 #two{
-       height:700px; 
+       height:300px; 
     }
 .center{
     margin-left:auto;
@@ -160,16 +160,16 @@ a:visited{
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
     h1{
-        font-size:50px;
+        font-size:45px;
     }
 table{
     font-size:30px;
@@ -182,7 +182,7 @@ table{
     margin-left:-900px;
 }
 #two{
-       height:531px; 
+       height:331px; 
     }
 .center{
     margin-left:auto;
@@ -202,9 +202,9 @@ a:visited{
 @media screen and (min-device-width:1026px) and (max-device-width:1150px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -224,7 +224,7 @@ table{
     margin-left:-1010px;
 }
 #two{
-       height:548px; 
+       height:350px; 
     }
 .center{
     margin-left:auto;
@@ -244,9 +244,9 @@ a:visited{
 @media screen and (min-device-width:1151px) and (max-device-width:1299px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -266,7 +266,7 @@ img{
     margin-left:-1150px;
 }
 #two{
-       height:700px; 
+       height:400px; 
     }
 .center{
     margin-left:auto;
@@ -286,9 +286,9 @@ a:visited{
 @media screen and (min-device-width:1300px) and (max-device-width:1400px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -296,6 +296,9 @@ body{
 }
 h1{
       font-size:50px;  
+    }
+    img{
+        width:500px;
     }
 table{
     font-size:35px;
@@ -305,7 +308,7 @@ table{
     margin-left:-1260px;
 }
 #two{
-       height:700px; 
+       height:450px; 
     }
 .center{
     margin-left:auto;
@@ -325,9 +328,9 @@ a:visited{
 @media screen and (min-device-width:1401px) and (max-device-width:1500px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat: no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -344,7 +347,7 @@ img{
     margin-left:-1350px;
 }
 #two{
-       height:744px; 
+       height:474px; 
     }
 .center{
     margin-left:auto;
@@ -364,9 +367,9 @@ a:visited{
 @media screen and (min-device-width:1501px) and (max-device-width:1600px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -386,7 +389,7 @@ table{
     margin-left:-1400px;
 }
 #two{
-       height:808px; 
+       height:510px; 
     }
 .center{
     margin-left:auto;
@@ -406,29 +409,29 @@ a:visited{
 @media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
     h1{
-        font-size:60px;
+        font-size:65px;
     }
 table{
     font-size:45px;
 }
     img{
-      width:700px;  
+      width:600px;  
     }
 #one{
     width:66px;
-    margin-left:-1600px;
+    margin-left:-1520px;
 }
 #two{
-       height:940px; 
+       height:580px; 
     }
 .center{
     margin-left:auto;
@@ -443,14 +446,14 @@ a:active{
 a:visited{
     text-decoration:underline;
 }
-}
+2}
 
 @media screen and (min-device-width:1801px) and (max-device-width:2000px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -467,10 +470,10 @@ table{
     }
 #one{
     width:86px;
-    margin-left:-1800px;
+    margin-left:-1700px;
 }
 #two{
-       height:999px; 
+       height:629px; 
     }
 .center{
     margin-left:auto;
@@ -490,16 +493,16 @@ a:visited{
 @media screen and (min-device-width:2001px) and (max-device-width:2200px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
     font-size:27px;
 }
     h1{
-        font-size:85px;
+        font-size:80px;
     }
 table{
     font-size:60px;
@@ -509,10 +512,10 @@ table{
     }
 #one{
     width:76px;
-    margin-left:-2000px;
+    margin-left:-1900px;
 }
 #two{
-       height:1170px; 
+       height:700px; 
     }
 .center{
     margin-left:auto;
@@ -532,9 +535,9 @@ a:visited{
 @media screen and (min-device-width:2201px) and (max-device-width:2500px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -554,7 +557,7 @@ table{
     margin-left:-2300px;
 }
 #two{
-       height:1346px; 
+       height:816px; 
     }
 .center{
     margin-left:auto;
@@ -574,9 +577,9 @@ a:visited{
 @media screen and (min-device-width:2501px) and (max-device-width:2700px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -596,7 +599,7 @@ table{
     margin-left:-2400px;
 }
 #two{
-       height:1510px; 
+       height:900px; 
     }
 .center{
     margin-left:auto;
@@ -616,9 +619,9 @@ a:visited{
 @media screen and (min-device-width:2701px) and (max-device-width:3000px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -638,7 +641,7 @@ table{
     margin-left:-2700px;
 }
 #two{
-       height:1590px; 
+       height:1000px; 
     }
 .center{
     margin-left:auto;
@@ -658,9 +661,9 @@ a:visited{
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -677,10 +680,10 @@ img{
     }
 #one{
     width:106px;
-    margin-left:-3100px;
+    margin-left:-2880px;
 }
 #two{
-       height:1990px; 
+       height:1170px; 
     }
 .center{
     margin-left:auto;
@@ -700,9 +703,9 @@ a:visited{
 @media screen and (min-device-width:3501px) and (max-device-width:3700px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -719,10 +722,10 @@ table{
     }
 #one{
     width:120px;
-    margin-left:-3400px;
+    margin-left:-3360px;
 }
 #two{
-       height:2050px; 
+       height:1250px; 
     }
 .center{
     margin-left:auto;
@@ -742,9 +745,9 @@ a:visited{
 @media screen and (min-device-width:3701px) and (max-device-width:4000px) {
     table{width:90%}
  body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
      background-position: center top;
     font-family:arial;
     text-align:center;
@@ -761,7 +764,7 @@ table{
     }
 #one{
     width:146px;
-    margin-left:-3900px;
+    margin-left:-3500px;
 }
 #two{
        height:20950px; 
@@ -784,9 +787,9 @@ a:visited{
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -806,7 +809,7 @@ table{
     margin-left:-3800px;
 }
 #two{
-       height:2100px; 
+       height:1600px; 
     }
 .center{
     margin-left:auto;
@@ -826,9 +829,9 @@ a:visited{
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -845,10 +848,10 @@ table{
 }
 #one{
     width:150px;
-    margin-left:-4500px;
+    margin-left:-4320px;
 }
 #two{
-       height:2600px; 
+       height:1550px; 
     }
 .center{
     margin-left:auto;
@@ -868,9 +871,9 @@ a:visited{
 @media screen and (min-device-width:5001px) and (max-device-width:5500px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -886,11 +889,11 @@ img{
      width:1490px;   
     }
 #one{
-    width:226px;
-    margin-left:-5000px;
+    width:206px;
+    margin-left:-4750px;
 }
 #two{
-       height:2990px; 
+       height:1700px; 
     }
 .center{
     margin-left:auto;
@@ -910,9 +913,9 @@ a:visited{
 @media screen and (min-device-width:5501px) and (max-device-width:5700px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -932,7 +935,7 @@ img{
     margin-left:-5000px;
 }
 #two{
-       height:3100px; 
+       height:1900px; 
     }
 .center{
     margin-left:auto;
@@ -952,9 +955,9 @@ a:visited{
 @media screen and (min-device-width:5701px) and (max-device-width:6000px) {
     table{width:90%}
 body{
-    background:url(asusfon2.webp);
+    background:url(asusfon2.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -972,10 +975,10 @@ img{
     
 #one{
     width:256px;
-    margin-left:-5600px;
+    margin-left:-5400px;
 }
 #two{
-       height:3300px; 
+       height:1900px; 
     }
 .center{
     margin-left:auto;
