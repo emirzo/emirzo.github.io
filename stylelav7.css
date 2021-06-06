@@ -1,9 +1,9 @@
 @media screen and (min-device-width:0px) and (max-device-width:320px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat: no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -17,10 +17,10 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
-       height:700px; 
+       height:550px; 
     }
 .center{
     margin-left:auto;
@@ -40,9 +40,9 @@ a:visited{
 @media screen and (min-device-width:321px) and (max-device-width:480px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -56,11 +56,8 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
-img{
-     width:400px;   
-    }
 #two{
        height:600px; 
     }
@@ -82,9 +79,9 @@ a:visited{
 @media screen and (min-device-width:481px) and (max-device-width:600px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -98,7 +95,7 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
        height:700px; 
@@ -121,9 +118,9 @@ a:visited{
 @media screen and (min-device-width:601px) and (max-device-width:660px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -137,7 +134,7 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
        height:700px; 
@@ -160,9 +157,9 @@ a:visited{
 @media screen and (min-device-width:661px) and (max-device-width:1025px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -179,7 +176,7 @@ table{
     }
 #one{
     width:50px;
-    margin-left:-900px;
+    margin-left:-820px;
 }
 #two{
        height:531px; 
@@ -202,9 +199,9 @@ a:visited{
 @media screen and (min-device-width:1026px) and (max-device-width:1150px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -221,7 +218,7 @@ table{
     }
 #one{
     width:56px;
-    margin-left:-1010px;
+    margin-left:-860px;
 }
 #two{
        height:548px; 
@@ -244,9 +241,9 @@ a:visited{
 @media screen and (min-device-width:1151px) and (max-device-width:1299px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -263,7 +260,7 @@ img{
     }
 #one{
     width:60px;
-    margin-left:-1150px;
+    margin-left:-960px;
 }
 #two{
        height:700px; 
@@ -286,9 +283,9 @@ a:visited{
 @media screen and (min-device-width:1300px) and (max-device-width:1400px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -300,9 +297,12 @@ h1{
 table{
     font-size:35px;
 }
+img{
+      width:400px;  
+    }
 #one{
     width:56px;
-    margin-left:-1260px;
+    margin-left:-1100px;
 }
 #two{
        height:700px; 
@@ -325,9 +325,9 @@ a:visited{
 @media screen and (min-device-width:1401px) and (max-device-width:1500px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat: no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -344,7 +344,7 @@ img{
     margin-left:-1350px;
 }
 #two{
-       height:744px; 
+       height:444px; 
     }
 .center{
     margin-left:auto;
@@ -364,9 +364,9 @@ a:visited{
 @media screen and (min-device-width:1501px) and (max-device-width:1600px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -406,9 +406,9 @@ a:visited{
 @media screen and (min-device-width:1601px) and (max-device-width:1800px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -448,9 +448,9 @@ a:visited{
 @media screen and (min-device-width:1801px) and (max-device-width:2000px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -490,9 +490,9 @@ a:visited{
 @media screen and (min-device-width:2001px) and (max-device-width:2200px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -532,9 +532,9 @@ a:visited{
 @media screen and (min-device-width:2201px) and (max-device-width:2500px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -574,9 +574,9 @@ a:visited{
 @media screen and (min-device-width:2501px) and (max-device-width:2700px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -616,9 +616,9 @@ a:visited{
 @media screen and (min-device-width:2701px) and (max-device-width:3000px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -658,9 +658,9 @@ a:visited{
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -700,9 +700,9 @@ a:visited{
 @media screen and (min-device-width:3501px) and (max-device-width:3700px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -742,9 +742,9 @@ a:visited{
 @media screen and (min-device-width:3701px) and (max-device-width:4000px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
      background-position: center top;
     font-family:arial;
     text-align:center;
@@ -784,9 +784,9 @@ a:visited{
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -826,9 +826,9 @@ a:visited{
 @media screen and (min-device-width:4501px) and (max-device-width:5000px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -868,9 +868,9 @@ a:visited{
 @media screen and (min-device-width:5001px) and (max-device-width:5500px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -910,9 +910,9 @@ a:visited{
 @media screen and (min-device-width:5501px) and (max-device-width:5700px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -952,9 +952,9 @@ a:visited{
 @media screen and (min-device-width:5701px) and (max-device-width:6000px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(asusfon.jpeg);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:100%;
     background-position: center top;
     font-family:arial;
     text-align:center;
