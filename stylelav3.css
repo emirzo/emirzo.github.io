@@ -3,7 +3,7 @@
 body{
     background:url(samsungfon.png);
     background-repeat: no-repeat;
-    background-size:70%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -17,10 +17,10 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
-       height:700px; 
+       height:550px; 
     }
 .center{
     margin-left:auto;
@@ -42,7 +42,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -56,11 +56,8 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
-img{
-     width:400px;   
-    }
 #two{
        height:600px; 
     }
@@ -84,7 +81,7 @@ a:visited{
  body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -98,7 +95,7 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
        height:700px; 
@@ -123,7 +120,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:70%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -137,7 +134,7 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
        height:700px; 
@@ -162,7 +159,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -179,7 +176,7 @@ table{
     }
 #one{
     width:50px;
-    margin-left:-900px;
+    margin-left:-820px;
 }
 #two{
        height:531px; 
@@ -204,7 +201,7 @@ a:visited{
  body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -221,7 +218,7 @@ table{
     }
 #one{
     width:56px;
-    margin-left:-1010px;
+    margin-left:-860px;
 }
 #two{
        height:548px; 
@@ -246,7 +243,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -263,7 +260,7 @@ img{
     }
 #one{
     width:60px;
-    margin-left:-1150px;
+    margin-left:-960px;
 }
 #two{
        height:700px; 
@@ -288,7 +285,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -300,9 +297,12 @@ h1{
 table{
     font-size:35px;
 }
+img{
+      width:500px;  
+    }
 #one{
     width:56px;
-    margin-left:-1260px;
+    margin-left:-1100px;
 }
 #two{
        height:700px; 
@@ -327,7 +327,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat: no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -344,7 +344,7 @@ img{
     margin-left:-1350px;
 }
 #two{
-       height:744px; 
+       height:544px; 
     }
 .center{
     margin-left:auto;
@@ -366,7 +366,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -408,7 +408,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -450,7 +450,7 @@ a:visited{
  body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -490,9 +490,9 @@ a:visited{
 @media screen and (min-device-width:2001px) and (max-device-width:2200px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -532,9 +532,9 @@ a:visited{
 @media screen and (min-device-width:2201px) and (max-device-width:2500px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -574,9 +574,9 @@ a:visited{
 @media screen and (min-device-width:2501px) and (max-device-width:2700px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -616,9 +616,9 @@ a:visited{
 @media screen and (min-device-width:2701px) and (max-device-width:3000px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -658,9 +658,9 @@ a:visited{
 @media screen and (min-device-width:3001px) and (max-device-width:3500px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -700,9 +700,9 @@ a:visited{
 @media screen and (min-device-width:3501px) and (max-device-width:3700px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -742,9 +742,9 @@ a:visited{
 @media screen and (min-device-width:3701px) and (max-device-width:4000px) {
     table{width:90%}
  body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
      background-position: center top;
     font-family:arial;
     text-align:center;
@@ -784,9 +784,9 @@ a:visited{
 @media screen and (min-device-width:4001px) and (max-device-width:4500px) {
     table{width:90%}
 body{
-    background:url(macfon.jpg);
+    background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -828,7 +828,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -870,7 +870,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -912,7 +912,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
@@ -954,7 +954,7 @@ a:visited{
 body{
     background:url(samsungfon.png);
     background-repeat:no-repeat;
-    background-size:75%;
+    background-size:90%;
     background-position: center top;
     font-family:arial;
     text-align:center;
