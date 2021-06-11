@@ -300,9 +300,12 @@ h1{
 table{
     font-size:35px;
 }
+    img{
+        width:400px;
+    }
 #one{
     width:56px;
-    margin-left:-1260px;
+    margin-left:-1200px;
 }
 #two{
        height:700px; 
@@ -424,8 +427,8 @@ table{
       width:700px;  
     }
 #one{
-    width:66px;
-    margin-left:-1600px;
+    width:80px;
+    margin-left:-1550px;
 }
 #two{
        height:940px; 
@@ -467,7 +470,7 @@ table{
     }
 #one{
     width:86px;
-    margin-left:-1800px;
+    margin-left:-1710px;
 }
 #two{
        height:999px; 
@@ -508,8 +511,8 @@ table{
         width:700px;
     }
 #one{
-    width:76px;
-    margin-left:-2000px;
+    width:90px;
+    margin-left:-1920px;
 }
 #two{
        height:1170px; 
@@ -676,8 +679,8 @@ img{
     width:1100px;
     }
 #one{
-    width:106px;
-    margin-left:-3100px;
+    width:146px;
+    margin-left:-2800px;
 }
 #two{
        height:1990px; 
@@ -718,7 +721,7 @@ table{
         width:1100px;
     }
 #one{
-    width:120px;
+    width:150px;
     margin-left:-3400px;
 }
 #two{
@@ -760,11 +763,11 @@ table{
         width:1200px;
     }
 #one{
-    width:146px;
-    margin-left:-3900px;
+    width:166px;
+    margin-left:-3400px;
 }
 #two{
-       height:20950px; 
+       height:2050px; 
     }
 .center{
     margin-left:auto;

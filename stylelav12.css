@@ -17,10 +17,10 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
-       height:520px; 
+       height:550px; 
     }
 .center{
     margin-left:auto;
@@ -56,11 +56,8 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
-img{
-     width:400px;   
-    }
 #two{
        height:600px; 
     }
@@ -98,10 +95,10 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
-       height:570px; 
+       height:700px; 
     }
 .center{
     margin-left:auto;
@@ -137,10 +134,10 @@ img{
     }
 #one{
     width:56px;
-    margin-left:-900px;
+    margin-left:-800px;
 }
 #two{
-       height:570px; 
+       height:700px; 
     }
 .center{
     margin-left:auto;
@@ -179,7 +176,7 @@ table{
     }
 #one{
     width:50px;
-    margin-left:-900px;
+    margin-left:-820px;
 }
 #two{
        height:531px; 
@@ -221,10 +218,10 @@ table{
     }
 #one{
     width:56px;
-    margin-left:-1010px;
+    margin-left:-860px;
 }
 #two{
-       height:620px; 
+       height:548px; 
     }
 .center{
     margin-left:auto;
@@ -263,7 +260,7 @@ img{
     }
 #one{
     width:60px;
-    margin-left:-1150px;
+    margin-left:-960px;
 }
 #two{
        height:700px; 
@@ -295,17 +292,20 @@ body{
     font-size:27px;
 }
 h1{
-      font-size:55px;  
+      font-size:50px;  
     }
 table{
     font-size:35px;
 }
+img{
+      width:500px;  
+    }
 #one{
     width:56px;
-    margin-left:-1260px;
+    margin-left:-1100px;
 }
 #two{
-       height:750px; 
+       height:700px; 
     }
 .center{
     margin-left:auto;
@@ -337,11 +337,11 @@ table{
     font-size:35px;
 }
 img{
-    width:600px;
+        width:600px;
     }
 #one{
     width:60px;
-    margin-left:-1350px;
+    margin-left:-1200px;
 }
 #two{
        height:800px; 
@@ -383,10 +383,10 @@ table{
     }
 #one{
     width:60px;
-    margin-left:-1400px;
+    margin-left:-1280px;
 }
 #two{
-       height:850px; 
+       height:838px; 
     }
 .center{
     margin-left:auto;
@@ -421,11 +421,11 @@ table{
     font-size:45px;
 }
     img{
-      width:700px;  
+      width:600px;  
     }
 #one{
-    width:66px;
-    margin-left:-1600px;
+    width:75px;
+    margin-left:-1360px;
 }
 #two{
        height:940px; 
@@ -467,10 +467,10 @@ table{
     }
 #one{
     width:86px;
-    margin-left:-1800px;
+    margin-left:-1540px;
 }
 #two{
-       height:1090px; 
+       height:999px; 
     }
 .center{
     margin-left:auto;
@@ -509,10 +509,10 @@ table{
     }
 #one{
     width:76px;
-    margin-left:-2000px;
+    margin-left:-1700px;
 }
 #two{
-       height:1200px; 
+       height:1170px; 
     }
 .center{
     margin-left:auto;
@@ -551,7 +551,7 @@ table{
     }
 #one{
     width:90px;
-    margin-left:-2300px;
+    margin-left:-1899px;
 }
 #two{
        height:1346px; 
@@ -583,7 +583,7 @@ a:visited{
     font-size:27px;
 }
     h1{
-        font-size:100px;
+        font-size:120px;
     }
 table{
     font-size:60px;
@@ -593,7 +593,7 @@ table{
     }
 #one{
     width:106px;
-    margin-left:-2400px;
+    margin-left:-2150px;
 }
 #two{
        height:1510px; 
@@ -625,7 +625,7 @@ body{
     font-size:27px;
 }
     h1{
-      font-size:120px;  
+      font-size:100px;  
     }
 table{
     font-size:65px;
@@ -635,10 +635,10 @@ table{
     }
 #one{
     width:106px;
-    margin-left:-2700px;
+    margin-left:-2320px;
 }
 #two{
-       height:1650px; 
+       height:1590px; 
     }
 .center{
     margin-left:auto;
@@ -667,7 +667,7 @@ a:visited{
     font-size:27px;
 }
     h1{
-        font-size:130px;
+        font-size:150px;
     }
 table{
     font-size:75px;
@@ -676,8 +676,8 @@ img{
     width:1100px;
     }
 #one{
-    width:106px;
-    margin-left:-3100px;
+    width:126px;
+    margin-left:-2570px;
 }
 #two{
        height:1990px; 
@@ -709,7 +709,7 @@ body{
     font-size:27px;
 }
     h1{
-       font-size:140px; 
+       font-size:150px; 
     }
 table{
     font-size:90px;
@@ -718,8 +718,8 @@ table{
         width:1100px;
     }
 #one{
-    width:120px;
-    margin-left:-3400px;
+    width:150px;
+    margin-left:-3000px;
 }
 #two{
        height:2050px; 
@@ -751,7 +751,7 @@ a:visited{
     font-size:27px;
 }
     h1{
-        font-size:150px;
+        font-size:160px;
     }
 table{
     font-size:95px;
@@ -760,11 +760,11 @@ table{
         width:1200px;
     }
 #one{
-    width:146px;
-    margin-left:-3900px;
+    width:166px;
+    margin-left:-3170px;
 }
 #two{
-       height:2200px; 
+       height:20950px; 
     }
 .center{
     margin-left:auto;
@@ -803,10 +803,10 @@ table{
     }
 #one{
     width:166px;
-    margin-left:-3800px;
+    margin-left:-3400px;
 }
 #two{
-       height:2500px; 
+       height:2250px; 
     }
 .center{
     margin-left:auto;
@@ -835,7 +835,7 @@ body{
     font-size:27px;
 }
     h1{
-        font-size:180px;
+        font-size:200px;
     }
     img{
         width:1400px;
@@ -844,11 +844,11 @@ table{
     font-size:110px;
 }
 #one{
-    width:150px;
-    margin-left:-4500px;
+    width:200px;
+    margin-left:-3880px;
 }
 #two{
-       height:2800px; 
+       height:2700px; 
     }
 .center{
     margin-left:auto;
@@ -887,10 +887,10 @@ img{
     }
 #one{
     width:226px;
-    margin-left:-5000px;
+    margin-left:-4300px;
 }
 #two{
-       height:3090px; 
+       height:2990px; 
     }
 .center{
     margin-left:auto;
@@ -929,7 +929,7 @@ img{
     }
 #one{
     width:236px;
-    margin-left:-5000px;
+    margin-left:-4720px;
 }
 #two{
        height:3100px; 

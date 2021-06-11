@@ -221,7 +221,7 @@ table{
     }
 #one{
     width:56px;
-    margin-left:-1010px;
+    margin-left:-980px;
 }
 #two{
        height:548px; 
@@ -263,7 +263,7 @@ img{
     }
 #one{
     width:60px;
-    margin-left:-1150px;
+    margin-left:-1100px;
 }
 #two{
        height:700px; 
@@ -300,6 +300,9 @@ h1{
 table{
     font-size:35px;
 }
+img{
+     width:400px;   
+    }
 #one{
     width:56px;
     margin-left:-1260px;
@@ -425,7 +428,7 @@ table{
     }
 #one{
     width:66px;
-    margin-left:-1600px;
+    margin-left:-1540px;
 }
 #two{
        height:940px; 
@@ -467,7 +470,7 @@ table{
     }
 #one{
     width:86px;
-    margin-left:-1800px;
+    margin-left:-1700px;
 }
 #two{
        height:999px; 
@@ -509,7 +512,7 @@ table{
     }
 #one{
     width:76px;
-    margin-left:-2000px;
+    margin-left:-1900px;
 }
 #two{
        height:1170px; 
@@ -551,7 +554,7 @@ table{
     }
 #one{
     width:90px;
-    margin-left:-2300px;
+    margin-left:-2100px;
 }
 #two{
        height:1346px; 
@@ -635,7 +638,7 @@ table{
     }
 #one{
     width:106px;
-    margin-left:-2700px;
+    margin-left:-2600px;
 }
 #two{
        height:1590px; 
@@ -677,7 +680,7 @@ img{
     }
 #one{
     width:106px;
-    margin-left:-3100px;
+    margin-left:-2900px;
 }
 #two{
        height:1990px; 
@@ -761,10 +764,10 @@ table{
     }
 #one{
     width:146px;
-    margin-left:-3900px;
+    margin-left:-3550px;
 }
 #two{
-       height:20950px; 
+       height:2950px; 
     }
 .center{
     margin-left:auto;
@@ -844,8 +847,8 @@ table{
     font-size:110px;
 }
 #one{
-    width:150px;
-    margin-left:-4500px;
+    width:160px;
+    margin-left:-4350px;
 }
 #two{
        height:2600px; 
@@ -887,10 +890,10 @@ img{
     }
 #one{
     width:226px;
-    margin-left:-5000px;
+    margin-left:-4800px;
 }
 #two{
-       height:2990px; 
+       height:2800px; 
     }
 .center{
     margin-left:auto;
@@ -929,7 +932,7 @@ img{
     }
 #one{
     width:236px;
-    margin-left:-5000px;
+    margin-left:-5200px;
 }
 #two{
        height:3100px; 
