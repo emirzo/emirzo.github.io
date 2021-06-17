@@ -473,6 +473,7 @@ body{
         font-size:180px;
     }
      #one{
-       width:215px; 
+       width:215px;
+         margin-left:-5600px;
     }
 }
