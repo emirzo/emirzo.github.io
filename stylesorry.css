@@ -14,6 +14,7 @@ body{
     }
     #one{
         width:55px;
+        margin-left:-900px;
     }
 }
 
@@ -33,6 +34,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-900px;
     }
 }
     
@@ -52,6 +54,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-900px;
     }
 }
 
@@ -71,6 +74,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-900px;
     }
 }
 
@@ -90,6 +94,7 @@ body{
     }
      #one{
         width:55px;
+          margin-left:-900px;
     }
 }
 
@@ -109,6 +114,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-1010px;
     }
 }
 
@@ -128,6 +134,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-1150px;
     }
 }
 
@@ -147,6 +154,7 @@ body{
     }
      #one{
         width:55px;
+         margin-left:-1260px;
     }
 }
 
@@ -166,6 +174,7 @@ body{
     }
      #one{
         width:60px;
+         margin-left:-1350px;
     }
 }
 
@@ -185,6 +194,7 @@ body{
     }
      #one{
         width:65px;
+         margin-left:-1400px;
     }
 }
 
@@ -204,6 +214,7 @@ body{
     }
      #one{
         width:70px;
+         margin-left:-1600px;
     }
 }
 
@@ -223,6 +234,7 @@ body{
     }
      #one{
         width:75px;
+         margin-left:-1800px;
     }
 }
 
@@ -242,6 +254,7 @@ body{
     }
      #one{
         width:80px;
+         margin-left:-2000px;
     }
 }
 
@@ -261,6 +274,7 @@ body{
     }
      #one{
         width:90px;
+         margin-left:-2100px;
     }
 }
 
@@ -280,6 +294,7 @@ body{
     }
      #one{
         width:100px;
+         margin-left:-2400px;
     }
 }
 
@@ -299,6 +314,7 @@ body{
     }
      #one{
         width:120px;
+         margin-left:-2700px;
     }
 }
 
@@ -318,6 +334,7 @@ body{
     }
      #one{
         width:125px;
+         margin-left:-3100px;
     }
 }
 
@@ -337,6 +354,7 @@ body{
     }
      #one{
         width:145px;
+         margin-left:-3400px;
     }
 }
 
@@ -356,6 +374,7 @@ body{
     }
      #one{
         width:145px; 
+         margin-left:-3900px;
     }
 }
 
@@ -375,6 +394,7 @@ body{
     }
      #one{
         width:155px;
+         margin-left:-3800px;
     }
 }
 
@@ -393,7 +413,8 @@ body{
         font-size:150px;
     }
      #one{
-        width:155px; 
+        width:155px;
+         margin-left:-4500px;
     }
 }
 
@@ -413,6 +434,7 @@ body{
     }
      #one{
         width:180px;
+         margin-left:-5000px;
     }
 }
 
@@ -431,7 +453,8 @@ body{
         font-size:185px;
     }
      #one{
-       width:200px; 
+       width:200px;
+         margin-left:-5000px;
     }
 }
 
