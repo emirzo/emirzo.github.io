@@ -1,0 +1,72 @@
+@media screen and (min-device-width:0px) and (max-device-width:320px) {
+    table{width:90% a}
+    img{width:570px;}
+}
+@media screen and (min-device-width:321px) and (max-device-width:480px) {
+    table{width:90% a}
+    img{width:580px;}
+}
+@media screen and (min-device-width:481px) and (max-device-width:600px) {
+    table{width:90% a}
+    img{width:600px;}
+}
+@media screen and (min-device-width:601px) and (max-device-width:800px) {
+    table{width:90% a}
+    img{width:700px;}
+}
+@media screen and (min-device-width:801px) and (max-device-width:1005px) {
+    table{width:90% a}
+    img{width:720px;}
+}
+@media screen and (min-device-width:1006px) and (max-device-width:1200px) {
+    table{width:90% a}
+    img{width:760px;}
+}
+@media screen and (min-device-width:1201px) and (max-device-width:1500px) {
+    table{width:90% a}
+    img{width:780px;}
+}
+@media screen and (min-device-width:1501px) and (max-device-width:1800px) {
+    table{width:90% a}
+    img{width:1000px;}
+}
+@media screen and (min-device-width:1801px) and (max-device-width:2000px) {
+    table{width:90% a}
+    img{width:1020px;}
+}
+@media screen and (min-device-width:2001px) and (max-device-width:2200px) {
+    table{width:90% a}
+    img{width:1060px;}
+}
+@media screen and (min-device-width:2201px) and (max-device-width:2500px) {
+    table{width:90% a}
+    img{width:1090px;}
+}
+@media screen and (min-device-width:2501px) and (max-device-width:3000px) {
+    table{width:90% a}
+    img{width:1240px;}
+}
+@media screen and (min-device-width:3001px) and (max-device-width:3500px) {
+    table{width:90% a}
+    img{width:1640px;}
+}
+@media screen and (min-device-width:3501px) and (max-device-width:4000px) {
+    table{width:90% a}
+    img{width:2200px;}
+}
+@media screen and (min-device-width:4001px) and (max-device-width:4500px) {
+    table{width:90% a}
+    img{width:2400px;}
+}
+@media screen and (min-device-width:4501px) and (max-device-width:5000px) {
+    table{width:90% a}
+    img{width:2550px;}
+}
+@media screen and (min-device-width:5001px) and (max-device-width:5500px) {
+    table{width:90% a}
+    img{width:2650px;}
+}
+@media screen and (min-device-width:5501px) and (max-device-width:6000px) {
+    table{width:90% a}
+    img{width:2950px;}
+}
