@@ -1,5 +1,5 @@
-
-body {font-family: Arial, Helvetica, sans-serif;}
+body {font-family: Arial, Helvetica, sans-serif;
+background-color: darkslategrey}
 
 /* Full-width input fields */
 input[type=text], input[type=password] {
@@ -41,8 +41,9 @@ button:hover {
 }
 
 img.avatar {
-  width: 40%;
+  width: 5%;
   border-radius: 50%;
+    transition: 2s;
 }
 
 .container {
@@ -71,7 +72,7 @@ span.psw {
 
 /* Modal Content/Box */
 .modal-content {
-  background-color: #fefefe;
+  background-color: blanchedalmond;
   margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
   border: 1px solid #888;
   width: 80%; /* Could be more or less, depending on screen size */
