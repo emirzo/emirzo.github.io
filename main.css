@@ -59,23 +59,20 @@ button{
     padding: 2% 5%;
     text-align: center;
     font-size: 25px;
-    margin: 4px 2px;
-    opacity: 0.6;
+    margin: 1px 1px;
+    opacity: 0.7;
     transition: 1s;
 }
 button div,
 button:hover{
-    float: center;
+    float: left(10%);
     padding: 2rem;
     color: black;
     background-color: antiquewhite;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 3.2rem;
     transition-property: all;
     transition: 1.25s ease-in, 1s ease-out; 
-}
-.sn{
-    text-underline-position: right 
 }
 footer{
     color:blanchedalmond;
