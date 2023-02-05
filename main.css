@@ -9,30 +9,28 @@
     }
 }
 body{
-    background:url(bgnew.jpg);
-    background-size:cover;
+    background: url(bgnew.jpg);
+    background-size: cover;
     background-repeat: no-repeat;
+    overflow-x: hidden;
 }
 .head{
-    margin-top:13%;
+    margin-top:23%;
     margin-left:15%;
     color: blanchedalmond;
     font-size:70px;
     animation: transitionIn 2s;
-    overflow:hidden;
 }
 .text{
     font-size:60px;
     color:blanchedalmond;
     text-indent: 10em;
-    margin-top:35%;
+    margin-top:46%;
     margin-left:15%;
-    overflow:hidden;
 }
 .navbar {
     background-color:transparent;
     font-family: monospace;
-    overflow:hidden;
 }
 .navbar a{
     margin-left: 50%;
@@ -41,26 +39,22 @@ body{
     color: white;
     text-decoration: none;
     font-size: 1rem;
-    overflow:hidden;
 }
 .navbar a:hover {
     background-color: transparent;
     color: blanchedalmond;
-    overflow:hidden;
 }
 .active {
     background-color:transparent;
-    overflow:hidden;
 }
 .startnow{
     text-align: center;
-    margin-top:50%;
-    overflow:hidden;
+    margin-top:42%;
 }
 button{
     text-align: center;
     background-color: orange;
-    border-radius:5px;
+    border-radius:15px;
     color: white;
     padding: 2% 5%;
     text-align: center;
@@ -68,8 +62,6 @@ button{
     margin: 4px 2px;
     opacity: 0.6;
     transition: 1s;
-    overflow:hidden;
-    
 }
 button div,
 button:hover{
@@ -80,10 +72,10 @@ button:hover{
     text-decoration: none;
     font-size: 1.5rem;
     transition-property: all;
-    
     transition: 1.25s ease-in, 1s ease-out; 
-    overflow:hidden;
-    
+}
+.sn{
+    text-underline-position: right 
 }
 footer{
     color:blanchedalmond;
