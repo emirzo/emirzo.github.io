@@ -5,13 +5,8 @@
 <link rel="stylesheet" style="text/css" href=main.css>
 <link rel="icon" type="image/png" href="pngwing.com.png">
         <title>1st Website</title>
-        </head>
+    </head>
 <body>
-    <script src="main.js"></script>
-<svg id="mySVG">
-  <path fill="none" stroke="#ffbd68" stroke-width="8" id="line" d="M50 0 L50 800"/>
-  Sorry, your browser does not support inline SVG.
-</svg>      
 <div class="navbar">
     <a href="login.html">Login</a>
 </div>
@@ -33,31 +28,8 @@
 </div>
     <footer>
         <div class="foot">
-            <p>Copyright &copy; 2023 Chamir</p>
+            <p>Copyright &copy; 2023 Chamir Websites</p>
         </div>
     </footer>
-    <script>
-// Get the id of the <path> element and the length of <path>
-var line = document.getElementById("line");
-var length = line.getTotalLength();
-
-// The start position of the drawing
-line.style.strokeDasharray = length;
-
-// Hide the line by offsetting dash. Remove this line to show the line before scroll draw
-line.style.strokeDashoffset = length;
-
-// Find scroll percentage on scroll (using cross-browser properties), and offset dash same amount as percentage scrolled
-window.addEventListener("scroll", myFunction);
-
-function myFunction() {
-var scrollpercent = (document.body.scrollTop + document.documentElement.scrollTop) / (document.documentElement.scrollHeight - document.documentElement.clientHeight);
-
-  var draw = length * scrollpercent;
-    
-  // Reverse the drawing (when scrolling upwards)
-  line.style.strokeDashoffset = length - draw;
-}
-</script>
 </body>
 </html> 

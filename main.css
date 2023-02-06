@@ -15,7 +15,16 @@ body{
     overflow-x: hidden;
 }
 body::-webkit-scrollbar{
-    display: none;
+    width:2em;
+}
+body::-webkit-scrollbar-track{
+    background: hsl(359 50% 0%  / 1)
+}
+body::-webkit-scrollbar-thumb{
+    background: hsl(359 10% 9%  / 0.7)
+}
+body::-webkit-scrollbar-thumb:hover{
+    background: hsl(359 10% 9% / 1)
 }
 .head{
     margin-top:23%;
@@ -85,11 +94,4 @@ footer{
 }
 .login{
     margin-left:1%;
-}
-#mySVG {
-  position: fixed;
-  top: 0%;
-  height: 100%;
-  float:right;
-    margin-left:95.9%
 }
