@@ -15,16 +15,17 @@ body{
     overflow-x: hidden;
 }
 body::-webkit-scrollbar{
-    width:2em;
+    width:1em;
 }
 body::-webkit-scrollbar-track{
-    background: hsl(359 50% 0%  / 1)
+    background: hsl(359 50% 0%  / 1);
 }
 body::-webkit-scrollbar-thumb{
-    background: hsl(359 10% 9%  / 0.7)
+    background: hsl(359 10% 9%  / 0.7);
 }
 body::-webkit-scrollbar-thumb:hover{
-    background: hsl(359 10% 9% / 1)
+    background: hsl(359 10% 9% / 1);
+    border-radius: 100vw;
 }
 .head{
     margin-top:23%;
