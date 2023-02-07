@@ -1,11 +1,19 @@
+.head{
+    margin-top:23%;
+    margin-left:15%;
+    color: blanchedalmond;
+    font-size:70px;
+    animation-name: transitionIn;
+    animation-duration: 2s;
+}
 @keyframes transitionIn {
     from{
         opacity 0;
-        transition: rotateX(-10deg)
+        transition: rotateX(-20deg);
     }
     to{
         opacity 1;
-        transition: rotateX(0)
+        transition: rotateX(0);
     }
 }
 body{
@@ -15,24 +23,18 @@ body{
     overflow-x: hidden;
 }
 body::-webkit-scrollbar{
-    width:1em;
+    width:0.9em;
 }
 body::-webkit-scrollbar-track{
-    background: hsl(359 50% 0%  / 1);
+    background: hsl(359 50% 0% / 1);
 }
 body::-webkit-scrollbar-thumb{
-    background: hsl(359 10% 9%  / 0.7);
+    background: linear-gradient(#404040, blanchedalmond);
 }
 body::-webkit-scrollbar-thumb:hover{
-    background: hsl(359 10% 9% / 1);
+    background: linear-gradient(#404040, blanchedalmond);
+    transition-property: all;
     border-radius: 100vw;
-}
-.head{
-    margin-top:23%;
-    margin-left:15%;
-    color: blanchedalmond;
-    font-size:70px;
-    animation: transitionIn 2s;
 }
 .text{
     font-size:60px;
@@ -48,7 +50,7 @@ body::-webkit-scrollbar-thumb:hover{
 .navbar a{
     margin-left: 50%;
     float: right;
-    padding: 2rem;
+    padding: 1.5rem;
     color: white;
     text-decoration: none;
     font-size: 1rem;
